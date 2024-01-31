@@ -1,0 +1,2611 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 6923,
+    "dDurationMs": 1210,
+    "segs": [ {
+      "utf8": "[static crackling]"
+    } ]
+  }, {
+    "tStartMs": 11511,
+    "dDurationMs": 1210,
+    "segs": [ {
+      "utf8": "[static crackling]"
+    } ]
+  }, {
+    "tStartMs": 13263,
+    "dDurationMs": 2502,
+    "segs": [ {
+      "utf8": "[indistinct muffled radio chatter]"
+    } ]
+  }, {
+    "tStartMs": 19686,
+    "dDurationMs": 2210,
+    "segs": [ {
+      "utf8": "[David Attenborough] Just 50 years ago,"
+    } ]
+  }, {
+    "tStartMs": 22480,
+    "dDurationMs": 2920,
+    "segs": [ {
+      "utf8": "we finally ventured to the moon."
+    } ]
+  }, {
+    "tStartMs": 39372,
+    "dDurationMs": 5506,
+    "segs": [ {
+      "utf8": "For the very first time,\nwe look back at our own planet."
+    } ]
+  }, {
+    "tStartMs": 52385,
+    "dDurationMs": 5381,
+    "segs": [ {
+      "utf8": "Since then, the human population\nhas more than doubled."
+    } ]
+  }, {
+    "tStartMs": 63271,
+    "dDurationMs": 4546,
+    "segs": [ {
+      "utf8": "This series will celebrate\nthe natural wonders that remain,"
+    } ]
+  }, {
+    "tStartMs": 68651,
+    "dDurationMs": 2711,
+    "segs": [ {
+      "utf8": "and reveal what we must preserve"
+    } ]
+  }, {
+    "tStartMs": 71738,
+    "dDurationMs": 4254,
+    "segs": [ {
+      "utf8": "to ensure people and nature thrive."
+    } ]
+  }, {
+    "tStartMs": 95428,
+    "dDurationMs": 2836,
+    "segs": [ {
+      "utf8": "When human beings\nbuilt their first settlements"
+    } ]
+  }, {
+    "tStartMs": 98348,
+    "dDurationMs": 2127,
+    "segs": [ {
+      "utf8": "some 10,000 years ago,"
+    } ]
+  }, {
+    "tStartMs": 101267,
+    "dDurationMs": 1252,
+    "segs": [ {
+      "utf8": "the world around them,"
+    } ]
+  }, {
+    "tStartMs": 103394,
+    "dDurationMs": 2128,
+    "segs": [ {
+      "utf8": "on the land and in the sea,"
+    } ]
+  }, {
+    "tStartMs": 105605,
+    "dDurationMs": 1543,
+    "segs": [ {
+      "utf8": "was full of life."
+    } ]
+  }, {
+    "tStartMs": 125166,
+    "dDurationMs": 6173,
+    "segs": [ {
+      "utf8": "For generations, this stable Eden\nnurtured our growing civilizations."
+    } ]
+  }, {
+    "tStartMs": 136010,
+    "dDurationMs": 4255,
+    "segs": [ {
+      "utf8": "But now, in the space\nof just one human lifetime,"
+    } ]
+  }, {
+    "tStartMs": 140682,
+    "dDurationMs": 2085,
+    "segs": [ {
+      "utf8": "all that has changed."
+    } ]
+  }, {
+    "tStartMs": 146354,
+    "dDurationMs": 1585,
+    "segs": [ {
+      "utf8": "In the last 50 years,"
+    } ]
+  }, {
+    "tStartMs": 148231,
+    "dDurationMs": 4713,
+    "segs": [ {
+      "utf8": "wildlife populations have, on average,\ndeclined by 60 percent."
+    } ]
+  }, {
+    "tStartMs": 156322,
+    "dDurationMs": 2336,
+    "segs": [ {
+      "utf8": "For the first time in human history,"
+    } ]
+  }, {
+    "tStartMs": 159117,
+    "dDurationMs": 4379,
+    "segs": [ {
+      "utf8": "the stability of nature\ncan no longer be taken for granted."
+    } ]
+  }, {
+    "tStartMs": 164164,
+    "dDurationMs": 1334,
+    "segs": [ {
+      "utf8": "[ice cracking]"
+    } ]
+  }, {
+    "tStartMs": 175133,
+    "dDurationMs": 2836,
+    "segs": [ {
+      "utf8": "But the natural world is resilient."
+    } ]
+  }, {
+    "tStartMs": 179429,
+    "dDurationMs": 2169,
+    "segs": [ {
+      "utf8": "Great riches still remain."
+    } ]
+  }, {
+    "tStartMs": 187896,
+    "dDurationMs": 4087,
+    "segs": [ {
+      "utf8": "And with our help, the planet can recover."
+    } ]
+  }, {
+    "tStartMs": 196237,
+    "dDurationMs": 5756,
+    "segs": [ {
+      "utf8": "Never has it been more important\nto understand how the natural world works,"
+    } ]
+  }, {
+    "tStartMs": 202702,
+    "dDurationMs": 1376,
+    "segs": [ {
+      "utf8": "and how to help it."
+    } ]
+  }, {
+    "tStartMs": 216841,
+    "dDurationMs": 3253,
+    "segs": [ {
+      "utf8": "[birds calling]"
+    } ]
+  }, {
+    "tStartMs": 223514,
+    "dDurationMs": 2002,
+    "segs": [ {
+      "utf8": "[waves crashing]"
+    } ]
+  }, {
+    "tStartMs": 226726,
+    "dDurationMs": 3504,
+    "segs": [ {
+      "utf8": "Wildlife still flourishes\nin astonishing numbers"
+    } ]
+  }, {
+    "tStartMs": 230688,
+    "dDurationMs": 2419,
+    "segs": [ {
+      "utf8": "in a few precious places."
+    } ]
+  }, {
+    "tStartMs": 239113,
+    "dDurationMs": 2795,
+    "segs": [ {
+      "utf8": "Along the Peruvian coast of South America,"
+    } ]
+  }, {
+    "tStartMs": 242492,
+    "dDurationMs": 4546,
+    "segs": [ {
+      "utf8": "seabirds congregate\nin colonies millions strong."
+    } ]
+  }, {
+    "tStartMs": 251209,
+    "dDurationMs": 2294,
+    "segs": [ {
+      "utf8": "They come here to breed."
+    } ]
+  }, {
+    "tStartMs": 259634,
+    "dDurationMs": 3045,
+    "segs": [ {
+      "utf8": "[birds calling]"
+    } ]
+  }, {
+    "tStartMs": 263680,
+    "dDurationMs": 3128,
+    "segs": [ {
+      "utf8": "Every morning,\nthe birds leave their colonies"
+    } ]
+  }, {
+    "tStartMs": 267350,
+    "dDurationMs": 3712,
+    "segs": [ {
+      "utf8": "to fish in one of the richest seas\non Earth."
+    } ]
+  }, {
+    "tStartMs": 280822,
+    "dDurationMs": 3378,
+    "segs": [ {
+      "utf8": "It is an astonishing daily migration"
+    } ]
+  }, {
+    "tStartMs": 284826,
+    "dDurationMs": 2461,
+    "segs": [ {
+      "utf8": "of five million birds."
+    } ]
+  }, {
+    "tStartMs": 292208,
+    "dDurationMs": 5923,
+    "segs": [ {
+      "utf8": "The huge flocks of cormorants and boobies\nare all seeking one thing:"
+    } ]
+  }, {
+    "tStartMs": 301634,
+    "dDurationMs": 959,
+    "segs": [ {
+      "utf8": "anchovies."
+    } ]
+  }, {
+    "tStartMs": 305096,
+    "dDurationMs": 2669,
+    "segs": [ {
+      "utf8": "[water rushing]"
+    } ]
+  }, {
+    "tStartMs": 315982,
+    "dDurationMs": 2961,
+    "segs": [ {
+      "utf8": "The boobies carpet-bomb the shoals."
+    } ]
+  }, {
+    "tStartMs": 327785,
+    "dDurationMs": 3754,
+    "segs": [ {
+      "utf8": "More and more birds\njoin the feeding frenzy."
+    } ]
+  }, {
+    "tStartMs": 331998,
+    "dDurationMs": 1752,
+    "segs": [ {
+      "utf8": "[water splashing]"
+    } ]
+  }, {
+    "tStartMs": 333833,
+    "dDurationMs": 1543,
+    "segs": [ {
+      "utf8": "[classical music score plays]"
+    } ]
+  }, {
+    "tStartMs": 371996,
+    "dDurationMs": 3754,
+    "segs": [ {
+      "utf8": "All in this immense assembly are here"
+    } ]
+  }, {
+    "tStartMs": 376042,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "because a powerful oceanic current,\nthe Humboldt,"
+    } ]
+  }, {
+    "tStartMs": 380254,
+    "dDurationMs": 1836,
+    "segs": [ {
+      "utf8": "sweeps up from the Antarctic,"
+    } ]
+  }, {
+    "tStartMs": 382840,
+    "dDurationMs": 3921,
+    "segs": [ {
+      "utf8": "bringing with it rich nutrients\nfrom the ocean's depths."
+    } ]
+  }, {
+    "tStartMs": 391974,
+    "dDurationMs": 3337,
+    "segs": [ {
+      "utf8": "90 percent of the life in the oceans"
+    } ]
+  }, {
+    "tStartMs": 395520,
+    "dDurationMs": 3211,
+    "segs": [ {
+      "utf8": "is found in the shallow seas\nclose to the coast."
+    } ]
+  }, {
+    "tStartMs": 403403,
+    "dDurationMs": 1418,
+    "segs": [ {
+      "utf8": "Away from the land,"
+    } ]
+  }, {
+    "tStartMs": 405279,
+    "dDurationMs": 3629,
+    "segs": [ {
+      "utf8": "the seas, for the most part,\nare a blue desert."
+    } ]
+  }, {
+    "tStartMs": 410243,
+    "dDurationMs": 3587,
+    "segs": [ {
+      "utf8": "But even these distant waters\nmay be enriched"
+    } ]
+  }, {
+    "tStartMs": 413913,
+    "dDurationMs": 3754,
+    "segs": [ {
+      "utf8": "by a most unexpected connection\nto the land."
+    } ]
+  }, {
+    "tStartMs": 422839,
+    "dDurationMs": 1585,
+    "segs": [ {
+      "utf8": "Some deserts,"
+    } ]
+  }, {
+    "tStartMs": 424507,
+    "dDurationMs": 2628,
+    "segs": [ {
+      "utf8": "often hundreds of kilometers\nfrom the ocean,"
+    } ]
+  }, {
+    "tStartMs": 427593,
+    "dDurationMs": 3671,
+    "segs": [ {
+      "utf8": "provide the raw materials for life."
+    } ]
+  }, {
+    "tStartMs": 432974,
+    "dDurationMs": 2002,
+    "segs": [ {
+      "utf8": "[wind blowing]"
+    } ]
+  }, {
+    "tStartMs": 441774,
+    "dDurationMs": 6799,
+    "segs": [ {
+      "utf8": "Every year, winds sweep up\ntwo billion tons of dust into the sky."
+    } ]
+  }, {
+    "tStartMs": 451451,
+    "dDurationMs": 4129,
+    "segs": [ {
+      "utf8": "At least a quarter of it\neventually falls on the sea,"
+    } ]
+  }, {
+    "tStartMs": 456497,
+    "dDurationMs": 4254,
+    "segs": [ {
+      "utf8": "providing nutrients\nneeded by the microscopic organisms"
+    } ]
+  }, {
+    "tStartMs": 461085,
+    "dDurationMs": 3337,
+    "segs": [ {
+      "utf8": "that are the foundations of ocean life."
+    } ]
+  }, {
+    "tStartMs": 466841,
+    "dDurationMs": 1710,
+    "segs": [ {
+      "utf8": "[water splashing]"
+    } ]
+  }, {
+    "tStartMs": 475057,
+    "dDurationMs": 2962,
+    "segs": [ {
+      "utf8": "Dolphins explore the vast, open ocean"
+    } ]
+  }, {
+    "tStartMs": 478311,
+    "dDurationMs": 4754,
+    "segs": [ {
+      "utf8": "in search of the riches\nthat distant deserts may have nourished."
+    } ]
+  }, {
+    "tStartMs": 485776,
+    "dDurationMs": 1585,
+    "segs": [ {
+      "utf8": "[dolphins spouting]"
+    } ]
+  }, {
+    "tStartMs": 492283,
+    "dDurationMs": 4296,
+    "segs": [ {
+      "utf8": "A shoal of mackerel\nhas discovered a swarm of krill..."
+    } ]
+  }, {
+    "tStartMs": 498414,
+    "dDurationMs": 1710,
+    "segs": [ {
+      "utf8": "the small crustaceans"
+    } ]
+  }, {
+    "tStartMs": 500208,
+    "dDurationMs": 3336,
+    "segs": [ {
+      "utf8": "that feed on the ocean's\nfloating microscopic plants."
+    } ]
+  }, {
+    "tStartMs": 505129,
+    "dDurationMs": 3837,
+    "segs": [ {
+      "utf8": "But the mackerel themselves\nare food for the dolphins."
+    } ]
+  }, {
+    "tStartMs": 509383,
+    "dDurationMs": 2169,
+    "segs": [ {
+      "utf8": "[dolphins whistling]"
+    } ]
+  }, {
+    "tStartMs": 519393,
+    "dDurationMs": 2503,
+    "segs": [ {
+      "utf8": "[water rushing]"
+    } ]
+  }, {
+    "tStartMs": 525107,
+    "dDurationMs": 3045,
+    "segs": [ {
+      "utf8": "They drive the mackerel\ntowards the surface,"
+    } ]
+  }, {
+    "tStartMs": 528569,
+    "dDurationMs": 2628,
+    "segs": [ {
+      "utf8": "and into the range of birds."
+    } ]
+  }, {
+    "tStartMs": 533699,
+    "dDurationMs": 1335,
+    "segs": [ {
+      "utf8": "Shearwaters."
+    } ]
+  }, {
+    "tStartMs": 536827,
+    "dDurationMs": 2920,
+    "segs": [ {
+      "utf8": "The wings that normally propel the birds\nthrough the air"
+    } ]
+  }, {
+    "tStartMs": 539830,
+    "dDurationMs": 3379,
+    "segs": [ {
+      "utf8": "now drive them six meters down\nthrough the water."
+    } ]
+  }, {
+    "tStartMs": 543292,
+    "dDurationMs": 1502,
+    "segs": [ {
+      "utf8": "[water rushing]"
+    } ]
+  }, {
+    "tStartMs": 550716,
+    "dDurationMs": 2503,
+    "segs": [ {
+      "utf8": "Whilst the birds\npick off the top of the shoal..."
+    } ]
+  }, {
+    "tStartMs": 557098,
+    "dDurationMs": 2586,
+    "segs": [ {
+      "utf8": "the dolphins attack the underside."
+    } ]
+  }, {
+    "tStartMs": 569652,
+    "dDurationMs": 1835,
+    "segs": [ {
+      "utf8": "[water rushing]"
+    } ]
+  }, {
+    "tStartMs": 571571,
+    "dDurationMs": 2252,
+    "segs": [ {
+      "utf8": "[dolphins whistling]"
+    } ]
+  }, {
+    "tStartMs": 589630,
+    "dDurationMs": 1794,
+    "segs": [ {
+      "utf8": "[water rushing]"
+    } ]
+  }, {
+    "tStartMs": 595177,
+    "dDurationMs": 2086,
+    "segs": [ {
+      "utf8": "After 20 minutes of feasting,"
+    } ]
+  }, {
+    "tStartMs": 598180,
+    "dDurationMs": 2795,
+    "segs": [ {
+      "utf8": "the predators\nfrom both the sea and the air"
+    } ]
+  }, {
+    "tStartMs": 601892,
+    "dDurationMs": 1377,
+    "segs": [ {
+      "utf8": "have had their fill."
+    } ]
+  }, {
+    "tStartMs": 621037,
+    "dDurationMs": 2794,
+    "segs": [ {
+      "utf8": "The stability of life on our planet"
+    } ]
+  }, {
+    "tStartMs": 624081,
+    "dDurationMs": 4338,
+    "segs": [ {
+      "utf8": "relies on such connections\nbetween different habitats."
+    } ]
+  }, {
+    "tStartMs": 631589,
+    "dDurationMs": 3128,
+    "segs": [ {
+      "utf8": "Water evaporating\nfrom the surface of the sea"
+    } ]
+  }, {
+    "tStartMs": 635217,
+    "dDurationMs": 2920,
+    "segs": [ {
+      "utf8": "condenses to form great clouds."
+    } ]
+  }, {
+    "tStartMs": 640848,
+    "dDurationMs": 5839,
+    "segs": [ {
+      "utf8": "And these eventually\nrelease the fresh water as rain."
+    } ]
+  }, {
+    "tStartMs": 650900,
+    "dDurationMs": 5630,
+    "segs": [ {
+      "utf8": "But these life-giving rains\nare not evenly spread over the land."
+    } ]
+  }, {
+    "tStartMs": 664038,
+    "dDurationMs": 2711,
+    "segs": [ {
+      "utf8": "This vast salt pan in Africa"
+    } ]
+  }, {
+    "tStartMs": 667667,
+    "dDurationMs": 2836,
+    "segs": [ {
+      "utf8": "is all that remains of an ancient lake."
+    } ]
+  }, {
+    "tStartMs": 674215,
+    "dDurationMs": 3336,
+    "segs": [ {
+      "utf8": "It's totally waterless and oven-hot."
+    } ]
+  }, {
+    "tStartMs": 678636,
+    "dDurationMs": 3628,
+    "segs": [ {
+      "utf8": "Few places on the land\nare more hostile to life."
+    } ]
+  }, {
+    "tStartMs": 689063,
+    "dDurationMs": 6214,
+    "segs": [ {
+      "utf8": "A few tracks cross it, made by animals\nsearching unsuccessfully for water."
+    } ]
+  }, {
+    "tStartMs": 701867,
+    "dDurationMs": 1085,
+    "segs": [ {
+      "utf8": "[snorting]"
+    } ]
+  }, {
+    "tStartMs": 715589,
+    "dDurationMs": 6006,
+    "segs": [ {
+      "utf8": "But very occasionally,\nthis whole landscape is transformed."
+    } ]
+  }, {
+    "tStartMs": 725474,
+    "dDurationMs": 1752,
+    "segs": [ {
+      "utf8": "[thunder rumbling]"
+    } ]
+  }, {
+    "tStartMs": 735234,
+    "dDurationMs": 1335,
+    "segs": [ {
+      "utf8": "[thunderclap]"
+    } ]
+  }, {
+    "tStartMs": 740531,
+    "dDurationMs": 3795,
+    "segs": [ {
+      "utf8": "A huge deluge drenches the salt pan."
+    } ]
+  }, {
+    "tStartMs": 746787,
+    "dDurationMs": 1752,
+    "segs": [ {
+      "utf8": "[rain pouring]"
+    } ]
+  }, {
+    "tStartMs": 748956,
+    "dDurationMs": 1168,
+    "segs": [ {
+      "utf8": "[thunder rumbling]"
+    } ]
+  }, {
+    "tStartMs": 760384,
+    "dDurationMs": 2461,
+    "segs": [ {
+      "utf8": "Triggered by some unknown signal,"
+    } ]
+  }, {
+    "tStartMs": 763220,
+    "dDurationMs": 5506,
+    "segs": [ {
+      "utf8": "flocks of lesser flamingos\narrive from thousands of kilometers away."
+    } ]
+  }, {
+    "tStartMs": 779612,
+    "dDurationMs": 2627,
+    "segs": [ {
+      "utf8": "The algae that the flamingos feed on"
+    } ]
+  }, {
+    "tStartMs": 782573,
+    "dDurationMs": 3295,
+    "segs": [ {
+      "utf8": "have lain dormant as spores in the dust."
+    } ]
+  }, {
+    "tStartMs": 790790,
+    "dDurationMs": 1710,
+    "segs": [ {
+      "utf8": "But most importantly,"
+    } ]
+  }, {
+    "tStartMs": 793000,
+    "dDurationMs": 2503,
+    "segs": [ {
+      "utf8": "the birds are here to breed."
+    } ]
+  }, {
+    "tStartMs": 797922,
+    "dDurationMs": 4838,
+    "segs": [ {
+      "utf8": "Perfect conditions might occur\nonly once in a decade."
+    } ]
+  }, {
+    "tStartMs": 807139,
+    "dDurationMs": 1794,
+    "segs": [ {
+      "utf8": "[flamingos squawking]"
+    } ]
+  }, {
+    "tStartMs": 809016,
+    "dDurationMs": 3086,
+    "segs": [ {
+      "utf8": "The birds nest on an island\nfar from the shore."
+    } ]
+  }, {
+    "tStartMs": 812853,
+    "dDurationMs": 1919,
+    "segs": [ {
+      "utf8": "[mud splashing]"
+    } ]
+  }, {
+    "tStartMs": 814855,
+    "dDurationMs": 3170,
+    "segs": [ {
+      "utf8": "They build mounds of mud\nthat raise up their eggs"
+    } ]
+  }, {
+    "tStartMs": 818108,
+    "dDurationMs": 4922,
+    "segs": [ {
+      "utf8": "and so keep them just marginally cooler\nthan they would be at ground level."
+    } ]
+  }, {
+    "tStartMs": 823113,
+    "dDurationMs": 1627,
+    "segs": [ {
+      "utf8": "[flamingos chattering]"
+    } ]
+  }, {
+    "tStartMs": 827243,
+    "dDurationMs": 2961,
+    "segs": [ {
+      "utf8": "The water surrounding the island\nis so salty"
+    } ]
+  }, {
+    "tStartMs": 830287,
+    "dDurationMs": 2503,
+    "segs": [ {
+      "utf8": "that predators do not venture into it."
+    } ]
+  }, {
+    "tStartMs": 833874,
+    "dDurationMs": 1961,
+    "segs": [ {
+      "utf8": "So the nests are safe."
+    } ]
+  }, {
+    "tStartMs": 835918,
+    "dDurationMs": 1501,
+    "segs": [ {
+      "utf8": "[squawking]"
+    } ]
+  }, {
+    "tStartMs": 840297,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "Thirty days later,\nthousands of chicks start to hatch."
+    } ]
+  }, {
+    "tStartMs": 858649,
+    "dDurationMs": 3921,
+    "segs": [ {
+      "utf8": "But there is no shelter\nfrom the scorching sun."
+    } ]
+  }, {
+    "tStartMs": 865739,
+    "dDurationMs": 3420,
+    "segs": [ {
+      "utf8": "The water that once surrounded\ntheir island, protecting them,"
+    } ]
+  }, {
+    "tStartMs": 869493,
+    "dDurationMs": 1752,
+    "segs": [ {
+      "utf8": "has now dried up altogether."
+    } ]
+  }, {
+    "tStartMs": 876000,
+    "dDurationMs": 2586,
+    "segs": [ {
+      "utf8": "[cheeping]"
+    } ]
+  }, {
+    "tStartMs": 878669,
+    "dDurationMs": 5130,
+    "segs": [ {
+      "utf8": "The last to hatch\nstep out into a desperately harsh world."
+    } ]
+  }, {
+    "tStartMs": 886468,
+    "dDurationMs": 2086,
+    "segs": [ {
+      "utf8": "-[chicks cheeping]\n-[squawking]"
+    } ]
+  }, {
+    "tStartMs": 895436,
+    "dDurationMs": 1084,
+    "segs": [ {
+      "utf8": "[squawking]"
+    } ]
+  }, {
+    "tStartMs": 897396,
+    "dDurationMs": 5172,
+    "segs": [ {
+      "utf8": "Somehow or other, the growing chicks\nmust find fresh water to drink."
+    } ]
+  }, {
+    "tStartMs": 903485,
+    "dDurationMs": 1669,
+    "segs": [ {
+      "utf8": "-[cheeping]\n-[squawking]"
+    } ]
+  }, {
+    "tStartMs": 907114,
+    "dDurationMs": 5297,
+    "segs": [ {
+      "utf8": "They cannot yet fly, so they must walk,\nguided by some of the adults."
+    } ]
+  }, {
+    "tStartMs": 926759,
+    "dDurationMs": 3253,
+    "segs": [ {
+      "utf8": "They may have to trek for 50 kilometers."
+    } ]
+  }, {
+    "tStartMs": 955245,
+    "dDurationMs": 1711,
+    "segs": [ {
+      "utf8": "[frenzied cheeping and squawking]"
+    } ]
+  }, {
+    "tStartMs": 961210,
+    "dDurationMs": 2753,
+    "segs": [ {
+      "utf8": "Some... cannot keep up."
+    } ]
+  }, {
+    "tStartMs": 969593,
+    "dDurationMs": 3295,
+    "segs": [ {
+      "utf8": "The salt has solidified around their legs."
+    } ]
+  }, {
+    "tStartMs": 973722,
+    "dDurationMs": 918,
+    "segs": [ {
+      "utf8": "[cheeps]"
+    } ]
+  }, {
+    "tStartMs": 1004878,
+    "dDurationMs": 1794,
+    "segs": [ {
+      "utf8": "-[squawking]\n-[splashing]"
+    } ]
+  }, {
+    "tStartMs": 1009299,
+    "dDurationMs": 2795,
+    "segs": [ {
+      "utf8": "Most of the chicks,\nin spite of everything,"
+    } ]
+  }, {
+    "tStartMs": 1012428,
+    "dDurationMs": 1835,
+    "segs": [ {
+      "utf8": "and having walked for days,"
+    } ]
+  }, {
+    "tStartMs": 1014346,
+    "dDurationMs": 2378,
+    "segs": [ {
+      "utf8": "eventually reach fresh water."
+    } ]
+  }, {
+    "tStartMs": 1023188,
+    "dDurationMs": 4255,
+    "segs": [ {
+      "utf8": "[frenzied squawking]"
+    } ]
+  }, {
+    "tStartMs": 1037453,
+    "dDurationMs": 2085,
+    "segs": [ {
+      "utf8": "It is the end of a long journey..."
+    } ]
+  }, {
+    "tStartMs": 1041457,
+    "dDurationMs": 4838,
+    "segs": [ {
+      "utf8": "but only the first of the trials\nthat will be imposed on these flamingos"
+    } ]
+  }, {
+    "tStartMs": 1046462,
+    "dDurationMs": 2586,
+    "segs": [ {
+      "utf8": "by the irregularity of the rains."
+    } ]
+  }, {
+    "tStartMs": 1053594,
+    "dDurationMs": 2502,
+    "segs": [ {
+      "utf8": "-[rainfall]\n-[snorting]"
+    } ]
+  }, {
+    "tStartMs": 1059308,
+    "dDurationMs": 3128,
+    "segs": [ {
+      "utf8": "If rainfall is more predictable\nand certain,"
+    } ]
+  }, {
+    "tStartMs": 1062519,
+    "dDurationMs": 2670,
+    "segs": [ {
+      "utf8": "then life can flourish more richly,"
+    } ]
+  }, {
+    "tStartMs": 1066315,
+    "dDurationMs": 3253,
+    "segs": [ {
+      "utf8": "both in numbers and variety."
+    } ]
+  }, {
+    "tStartMs": 1073822,
+    "dDurationMs": 5631,
+    "segs": [ {
+      "utf8": "The Serengeti plains in East Africa\nsupport over a million wildebeest."
+    } ]
+  }, {
+    "tStartMs": 1079828,
+    "dDurationMs": 2169,
+    "segs": [ {
+      "utf8": "[grunting]"
+    } ]
+  }, {
+    "tStartMs": 1082456,
+    "dDurationMs": 2836,
+    "segs": [ {
+      "utf8": "The herds follow the seasonal rains,"
+    } ]
+  }, {
+    "tStartMs": 1085584,
+    "dDurationMs": 3837,
+    "segs": [ {
+      "utf8": "grazing on the newly-sprouting grass\nthat comes in their wake."
+    } ]
+  }, {
+    "tStartMs": 1089797,
+    "dDurationMs": 2168,
+    "segs": [ {
+      "utf8": "[grunting continues]"
+    } ]
+  }, {
+    "tStartMs": 1100182,
+    "dDurationMs": 2544,
+    "segs": [ {
+      "utf8": "Each year, within a three-week period,"
+    } ]
+  }, {
+    "tStartMs": 1103018,
+    "dDurationMs": 4755,
+    "segs": [ {
+      "utf8": "the females give birth\nto over a quarter of a million calves."
+    } ]
+  }, {
+    "tStartMs": 1114988,
+    "dDurationMs": 1836,
+    "segs": [ {
+      "utf8": "[bleating]"
+    } ]
+  }, {
+    "tStartMs": 1116907,
+    "dDurationMs": 2836,
+    "segs": [ {
+      "utf8": "This youngster is just a few days old."
+    } ]
+  }, {
+    "tStartMs": 1120869,
+    "dDurationMs": 4255,
+    "segs": [ {
+      "utf8": "Playing strengthens its legs\nfor the long journey that lies ahead."
+    } ]
+  }, {
+    "tStartMs": 1135759,
+    "dDurationMs": 2002,
+    "segs": [ {
+      "utf8": "[grunting]"
+    } ]
+  }, {
+    "tStartMs": 1156697,
+    "dDurationMs": 2586,
+    "segs": [ {
+      "utf8": "The calf must stay close to its mother."
+    } ]
+  }, {
+    "tStartMs": 1159825,
+    "dDurationMs": 2377,
+    "segs": [ {
+      "utf8": "Without her milk, it would starve."
+    } ]
+  }, {
+    "tStartMs": 1162286,
+    "dDurationMs": 2294,
+    "segs": [ {
+      "utf8": "-[snorting]\n-[grunting]"
+    } ]
+  }, {
+    "tStartMs": 1166415,
+    "dDurationMs": 2544,
+    "segs": [ {
+      "utf8": "And the herds are always traveling,"
+    } ]
+  }, {
+    "tStartMs": 1170085,
+    "dDurationMs": 3087,
+    "segs": [ {
+      "utf8": "following the rains\nas they drift across the plains"
+    } ]
+  }, {
+    "tStartMs": 1173881,
+    "dDurationMs": 1918,
+    "segs": [ {
+      "utf8": "in order to find fresh grazing."
+    } ]
+  }, {
+    "tStartMs": 1179845,
+    "dDurationMs": 3420,
+    "segs": [ {
+      "utf8": "Eventually, they reach woodlands."
+    } ]
+  }, {
+    "tStartMs": 1183682,
+    "dDurationMs": 3128,
+    "segs": [ {
+      "utf8": "[birds chirping]"
+    } ]
+  }, {
+    "tStartMs": 1186894,
+    "dDurationMs": 1334,
+    "segs": [ {
+      "utf8": "[grunting]"
+    } ]
+  }, {
+    "tStartMs": 1202159,
+    "dDurationMs": 1501,
+    "segs": [ {
+      "utf8": "Hunting dogs."
+    } ]
+  }, {
+    "tStartMs": 1208165,
+    "dDurationMs": 3003,
+    "segs": [ {
+      "utf8": "Wildebeest calves are a favorite prey."
+    } ]
+  }, {
+    "tStartMs": 1215547,
+    "dDurationMs": 1835,
+    "segs": [ {
+      "utf8": "And the dogs are hungry."
+    } ]
+  }, {
+    "tStartMs": 1232064,
+    "dDurationMs": 4421,
+    "segs": [ {
+      "utf8": "The calf must stay with its mother,\nprotected within the herd."
+    } ]
+  }, {
+    "tStartMs": 1267683,
+    "dDurationMs": 1543,
+    "segs": [ {
+      "utf8": "[wildebeest snorting]"
+    } ]
+  }, {
+    "tStartMs": 1279653,
+    "dDurationMs": 2377,
+    "segs": [ {
+      "utf8": "The dogs have incredible stamina..."
+    } ]
+  }, {
+    "tStartMs": 1285993,
+    "dDurationMs": 2711,
+    "segs": [ {
+      "utf8": "but the calf is defended by the herd."
+    } ]
+  }, {
+    "tStartMs": 1297504,
+    "dDurationMs": 2127,
+    "segs": [ {
+      "utf8": "They need the calf on its own."
+    } ]
+  }, {
+    "tStartMs": 1300841,
+    "dDurationMs": 1209,
+    "segs": [ {
+      "utf8": "[snorting]"
+    } ]
+  }, {
+    "tStartMs": 1302134,
+    "dDurationMs": 2627,
+    "segs": [ {
+      "utf8": "[African wild dogs panting]"
+    } ]
+  }, {
+    "tStartMs": 1318275,
+    "dDurationMs": 3712,
+    "segs": [ {
+      "utf8": "The mother blocks the dogs,\nshielding her calf."
+    } ]
+  }, {
+    "tStartMs": 1329661,
+    "dDurationMs": 1960,
+    "segs": [ {
+      "utf8": "It makes a run for safety."
+    } ]
+  }, {
+    "tStartMs": 1342632,
+    "dDurationMs": 3129,
+    "segs": [ {
+      "utf8": "And it just manages\nto get back to the herd."
+    } ]
+  }, {
+    "tStartMs": 1372496,
+    "dDurationMs": 5922,
+    "segs": [ {
+      "utf8": "The future of this whole migration\ndepends on the regularity of the rains,"
+    } ]
+  }, {
+    "tStartMs": 1379378,
+    "dDurationMs": 4754,
+    "segs": [ {
+      "utf8": "but also on the continued existence\nof the great open grasslands"
+    } ]
+  }, {
+    "tStartMs": 1384299,
+    "dDurationMs": 3545,
+    "segs": [ {
+      "utf8": "across which the herds\nmake their immense journeys."
+    } ]
+  }, {
+    "tStartMs": 1391014,
+    "dDurationMs": 2169,
+    "segs": [ {
+      "utf8": "-[insects chittering]\n-[birds calling]"
+    } ]
+  }, {
+    "tStartMs": 1395602,
+    "dDurationMs": 6006,
+    "segs": [ {
+      "utf8": "In places where rains fall abundantly\nthroughout the year, forests grow,"
+    } ]
+  }, {
+    "tStartMs": 1402901,
+    "dDurationMs": 2169,
+    "segs": [ {
+      "utf8": "and in the warmth of the tropics,"
+    } ]
+  }, {
+    "tStartMs": 1405153,
+    "dDurationMs": 3420,
+    "segs": [ {
+      "utf8": "they support\nan unparalleled richness of life."
+    } ]
+  }, {
+    "tStartMs": 1408657,
+    "dDurationMs": 3295,
+    "segs": [ {
+      "utf8": "[overlapping animal vocalizations]"
+    } ]
+  }, {
+    "tStartMs": 1412035,
+    "dDurationMs": 3170,
+    "segs": [ {
+      "utf8": "Half of all the species\nof land-living animals"
+    } ]
+  }, {
+    "tStartMs": 1415288,
+    "dDurationMs": 2378,
+    "segs": [ {
+      "utf8": "live in these stable worlds."
+    } ]
+  }, {
+    "tStartMs": 1419543,
+    "dDurationMs": 1710,
+    "segs": [ {
+      "utf8": "[bird whistling]"
+    } ]
+  }, {
+    "tStartMs": 1421420,
+    "dDurationMs": 3294,
+    "segs": [ {
+      "utf8": "The sheer diversity is breathtaking."
+    } ]
+  }, {
+    "tStartMs": 1430679,
+    "dDurationMs": 1960,
+    "segs": [ {
+      "utf8": "We still have not catalogued"
+    } ]
+  }, {
+    "tStartMs": 1432722,
+    "dDurationMs": 3421,
+    "segs": [ {
+      "utf8": "all the species that live\nin the tropical forests."
+    } ]
+  }, {
+    "tStartMs": 1450699,
+    "dDurationMs": 5922,
+    "segs": [ {
+      "utf8": "The relationships between them all\nare multitudinous and complex."
+    } ]
+  }, {
+    "tStartMs": 1460709,
+    "dDurationMs": 1460,
+    "segs": [ {
+      "utf8": "[wings buzzing]"
+    } ]
+  }, {
+    "tStartMs": 1462252,
+    "dDurationMs": 4087,
+    "segs": [ {
+      "utf8": "Plants often depend on animals\nto pollinate their flowers."
+    } ]
+  }, {
+    "tStartMs": 1470010,
+    "dDurationMs": 1918,
+    "segs": [ {
+      "utf8": "And these intimate connections"
+    } ]
+  }, {
+    "tStartMs": 1472012,
+    "dDurationMs": 3670,
+    "segs": [ {
+      "utf8": "are just as important\nas the great global ones."
+    } ]
+  }, {
+    "tStartMs": 1475765,
+    "dDurationMs": 1669,
+    "segs": [ {
+      "utf8": "[buzzing]"
+    } ]
+  }, {
+    "tStartMs": 1485442,
+    "dDurationMs": 1835,
+    "segs": [ {
+      "utf8": "These are traps."
+    } ]
+  }, {
+    "tStartMs": 1488570,
+    "dDurationMs": 2169,
+    "segs": [ {
+      "utf8": "Flowers shaped like buckets,"
+    } ]
+  }, {
+    "tStartMs": 1491406,
+    "dDurationMs": 1376,
+    "segs": [ {
+      "utf8": "produced by an orchid."
+    } ]
+  }, {
+    "tStartMs": 1498497,
+    "dDurationMs": 1292,
+    "segs": [ {
+      "utf8": "[buzzing]"
+    } ]
+  }, {
+    "tStartMs": 1502125,
+    "dDurationMs": 5130,
+    "segs": [ {
+      "utf8": "Each red bucket is filled\nwith an oily liquid that drips from above."
+    } ]
+  }, {
+    "tStartMs": 1512928,
+    "dDurationMs": 5922,
+    "segs": [ {
+      "utf8": "Male orchid bees need a rich perfume\nwith which to impress their females,"
+    } ]
+  }, {
+    "tStartMs": 1520352,
+    "dDurationMs": 2210,
+    "segs": [ {
+      "utf8": "and the orchids provide it."
+    } ]
+  }, {
+    "tStartMs": 1525941,
+    "dDurationMs": 3044,
+    "segs": [ {
+      "utf8": "But the bucket is slippery,"
+    } ]
+  }, {
+    "tStartMs": 1531988,
+    "dDurationMs": 3546,
+    "segs": [ {
+      "utf8": "and the liquid\ninto which the bee has fallen is sticky."
+    } ]
+  }, {
+    "tStartMs": 1539454,
+    "dDurationMs": 1543,
+    "segs": [ {
+      "utf8": "The only way to get out"
+    } ]
+  }, {
+    "tStartMs": 1542415,
+    "dDurationMs": 1752,
+    "segs": [ {
+      "utf8": "is through a narrow tunnel."
+    } ]
+  }, {
+    "tStartMs": 1547629,
+    "dDurationMs": 3378,
+    "segs": [ {
+      "utf8": "As it emerges, the bee is gripped tight."
+    } ]
+  }, {
+    "tStartMs": 1553677,
+    "dDurationMs": 2502,
+    "segs": [ {
+      "utf8": "And that gives enough time for the plant"
+    } ]
+  }, {
+    "tStartMs": 1556930,
+    "dDurationMs": 3253,
+    "segs": [ {
+      "utf8": "to glue pollen sacs on the bee's back."
+    } ]
+  }, {
+    "tStartMs": 1563728,
+    "dDurationMs": 4421,
+    "segs": [ {
+      "utf8": "So the orchid has its pollen\ntaken to another plant..."
+    } ]
+  }, {
+    "tStartMs": 1570610,
+    "dDurationMs": 2544,
+    "segs": [ {
+      "utf8": "and the bee is rewarded with a perfume,"
+    } ]
+  }, {
+    "tStartMs": 1573363,
+    "dDurationMs": 2753,
+    "segs": [ {
+      "utf8": "with which, when it recovers its strength,"
+    } ]
+  }, {
+    "tStartMs": 1576324,
+    "dDurationMs": 1877,
+    "segs": [ {
+      "utf8": "it can woo a female."
+    } ]
+  }, {
+    "tStartMs": 1582831,
+    "dDurationMs": 1543,
+    "segs": [ {
+      "utf8": "[water crashing]"
+    } ]
+  }, {
+    "tStartMs": 1585625,
+    "dDurationMs": 3545,
+    "segs": [ {
+      "utf8": "There are no pronounced seasons\nin a rainforest."
+    } ]
+  }, {
+    "tStartMs": 1592674,
+    "dDurationMs": 4338,
+    "segs": [ {
+      "utf8": "It produces food in one form or another\nthe year round."
+    } ]
+  }, {
+    "tStartMs": 1601141,
+    "dDurationMs": 3211,
+    "segs": [ {
+      "utf8": "It's so rich\nthat the females of some birds"
+    } ]
+  }, {
+    "tStartMs": 1604436,
+    "dDurationMs": 3420,
+    "segs": [ {
+      "utf8": "are able to raise their young\nentirely by themselves,"
+    } ]
+  }, {
+    "tStartMs": 1608189,
+    "dDurationMs": 4588,
+    "segs": [ {
+      "utf8": "and that allows the males to spend\ntheir whole time attracting females..."
+    } ]
+  }, {
+    "tStartMs": 1613486,
+    "dDurationMs": 835,
+    "segs": [ {
+      "utf8": "[cheeps]"
+    } ]
+  }, {
+    "tStartMs": 1614404,
+    "dDurationMs": 1418,
+    "segs": [ {
+      "utf8": "...as manakins do."
+    } ]
+  }, {
+    "tStartMs": 1618158,
+    "dDurationMs": 2294,
+    "segs": [ {
+      "utf8": "There are over 50 different species,"
+    } ]
+  }, {
+    "tStartMs": 1620535,
+    "dDurationMs": 3420,
+    "segs": [ {
+      "utf8": "each with its own\nhighly elaborate dance routine."
+    } ]
+  }, {
+    "tStartMs": 1626041,
+    "dDurationMs": 917,
+    "segs": [ {
+      "utf8": "[cheeps]"
+    } ]
+  }, {
+    "tStartMs": 1631671,
+    "dDurationMs": 1710,
+    "segs": [ {
+      "utf8": "The golden-collared manakin"
+    } ]
+  }, {
+    "tStartMs": 1633757,
+    "dDurationMs": 2502,
+    "segs": [ {
+      "utf8": "starts by clearing his dance floor."
+    } ]
+  }, {
+    "tStartMs": 1640347,
+    "dDurationMs": 834,
+    "segs": [ {
+      "utf8": "[cheeps]"
+    } ]
+  }, {
+    "tStartMs": 1645018,
+    "dDurationMs": 3170,
+    "segs": [ {
+      "utf8": "A female arrives\nand he starts his routine,"
+    } ]
+  }, {
+    "tStartMs": 1648271,
+    "dDurationMs": 2294,
+    "segs": [ {
+      "utf8": "rocketing from one perch to another."
+    } ]
+  }, {
+    "tStartMs": 1650649,
+    "dDurationMs": 917,
+    "segs": [ {
+      "utf8": "[fluttering]"
+    } ]
+  }, {
+    "tStartMs": 1652734,
+    "dDurationMs": 918,
+    "segs": [ {
+      "utf8": "[cheeping]"
+    } ]
+  }, {
+    "tStartMs": 1655111,
+    "dDurationMs": 2962,
+    "segs": [ {
+      "utf8": "She checks out every detail."
+    } ]
+  }, {
+    "tStartMs": 1667248,
+    "dDurationMs": 3629,
+    "segs": [ {
+      "utf8": "Finally, he performs his signature move."
+    } ]
+  }, {
+    "tStartMs": 1671711,
+    "dDurationMs": 1126,
+    "segs": [ {
+      "utf8": "[tweets]"
+    } ]
+  }, {
+    "tStartMs": 1672921,
+    "dDurationMs": 1376,
+    "segs": [ {
+      "utf8": "The back-flip..."
+    } ]
+  }, {
+    "tStartMs": 1674381,
+    "dDurationMs": 834,
+    "segs": [ {
+      "utf8": "[calls]"
+    } ]
+  }, {
+    "tStartMs": 1678301,
+    "dDurationMs": 1210,
+    "segs": [ {
+      "utf8": "...with twist."
+    } ]
+  }, {
+    "tStartMs": 1683139,
+    "dDurationMs": 834,
+    "segs": [ {
+      "utf8": "[calls]"
+    } ]
+  }, {
+    "tStartMs": 1684057,
+    "dDurationMs": 917,
+    "segs": [ {
+      "utf8": "Perfection."
+    } ]
+  }, {
+    "tStartMs": 1686434,
+    "dDurationMs": 1835,
+    "segs": [ {
+      "utf8": "-[cheeps]\n-[whir of wings]"
+    } ]
+  }, {
+    "tStartMs": 1689104,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "The red-capped manakin\nhas a very different act."
+    } ]
+  }, {
+    "tStartMs": 1694234,
+    "dDurationMs": 917,
+    "segs": [ {
+      "utf8": "[cheeps]"
+    } ]
+  }, {
+    "tStartMs": 1696361,
+    "dDurationMs": 2336,
+    "segs": [ {
+      "utf8": "It's a kind of slither."
+    } ]
+  }, {
+    "tStartMs": 1698780,
+    "dDurationMs": 876,
+    "segs": [ {
+      "utf8": "[cheeps]"
+    } ]
+  }, {
+    "tStartMs": 1699739,
+    "dDurationMs": 1919,
+    "segs": [ {
+      "utf8": "[feet pattering]"
+    } ]
+  }, {
+    "tStartMs": 1702242,
+    "dDurationMs": 1251,
+    "segs": [ {
+      "utf8": "[cheeps]"
+    } ]
+  }, {
+    "tStartMs": 1706246,
+    "dDurationMs": 834,
+    "segs": [ {
+      "utf8": "[cheeps]"
+    } ]
+  }, {
+    "tStartMs": 1708873,
+    "dDurationMs": 1752,
+    "segs": [ {
+      "utf8": "With wing snaps."
+    } ]
+  }, {
+    "tStartMs": 1710709,
+    "dDurationMs": 834,
+    "segs": [ {
+      "utf8": "[snap]"
+    } ]
+  }, {
+    "tStartMs": 1711626,
+    "dDurationMs": 1126,
+    "segs": [ {
+      "utf8": "[calls]"
+    } ]
+  }, {
+    "tStartMs": 1715588,
+    "dDurationMs": 1710,
+    "segs": [ {
+      "utf8": "-[cheep]\n-[snap]"
+    } ]
+  }, {
+    "tStartMs": 1717382,
+    "dDurationMs": 1460,
+    "segs": [ {
+      "utf8": "[wings snapping]"
+    } ]
+  }, {
+    "tStartMs": 1723304,
+    "dDurationMs": 2378,
+    "segs": [ {
+      "utf8": "But it doesn't seem to be working."
+    } ]
+  }, {
+    "tStartMs": 1728226,
+    "dDurationMs": 834,
+    "segs": [ {
+      "utf8": "[cheeps]"
+    } ]
+  }, {
+    "tStartMs": 1733231,
+    "dDurationMs": 834,
+    "segs": [ {
+      "utf8": "[tweets]"
+    } ]
+  }, {
+    "tStartMs": 1739904,
+    "dDurationMs": 1335,
+    "segs": [ {
+      "utf8": "[wings snapping]"
+    } ]
+  }, {
+    "tStartMs": 1742824,
+    "dDurationMs": 1501,
+    "segs": [ {
+      "utf8": "She's seen enough."
+    } ]
+  }, {
+    "tStartMs": 1747787,
+    "dDurationMs": 1377,
+    "segs": [ {
+      "utf8": "[chirruping]"
+    } ]
+  }, {
+    "tStartMs": 1749247,
+    "dDurationMs": 4421,
+    "segs": [ {
+      "utf8": "The most complex routine\nis that developed by the blue manakin."
+    } ]
+  }, {
+    "tStartMs": 1755462,
+    "dDurationMs": 4504,
+    "segs": [ {
+      "utf8": "The lead male\nis supported by three junior dancers."
+    } ]
+  }, {
+    "tStartMs": 1760425,
+    "dDurationMs": 2085,
+    "segs": [ {
+      "utf8": "[calling]"
+    } ]
+  }, {
+    "tStartMs": 1762594,
+    "dDurationMs": 2711,
+    "segs": [ {
+      "utf8": "They practice together almost every day."
+    } ]
+  }, {
+    "tStartMs": 1768141,
+    "dDurationMs": 1376,
+    "segs": [ {
+      "utf8": "During rehearsals,"
+    } ]
+  }, {
+    "tStartMs": 1769601,
+    "dDurationMs": 4045,
+    "segs": [ {
+      "utf8": "a young male in juvenile plumage\nstands in for the female."
+    } ]
+  }, {
+    "tStartMs": 1773813,
+    "dDurationMs": 1669,
+    "segs": [ {
+      "utf8": "[twittering]"
+    } ]
+  }, {
+    "tStartMs": 1778735,
+    "dDurationMs": 2961,
+    "segs": [ {
+      "utf8": "The dance\nhas to be perfectly synchronized."
+    } ]
+  }, {
+    "tStartMs": 1782739,
+    "dDurationMs": 1793,
+    "segs": [ {
+      "utf8": "[high-pitched tweets]"
+    } ]
+  }, {
+    "tStartMs": 1787160,
+    "dDurationMs": 876,
+    "segs": [ {
+      "utf8": "[chirrups]"
+    } ]
+  }, {
+    "tStartMs": 1788203,
+    "dDurationMs": 1668,
+    "segs": [ {
+      "utf8": "With the lead male happy..."
+    } ]
+  }, {
+    "tStartMs": 1793208,
+    "dDurationMs": 3211,
+    "segs": [ {
+      "utf8": "they're ready to present their dance\nto a female."
+    } ]
+  }, {
+    "tStartMs": 1798630,
+    "dDurationMs": 1918,
+    "segs": [ {
+      "utf8": "-[calling]\n-[fluttering]"
+    } ]
+  }, {
+    "tStartMs": 1809098,
+    "dDurationMs": 4422,
+    "segs": [ {
+      "utf8": "In a carousel of movements,\neach male takes his turn at the front."
+    } ]
+  }, {
+    "tStartMs": 1814395,
+    "dDurationMs": 1544,
+    "segs": [ {
+      "utf8": "-[calling]\n-[fluttering]"
+    } ]
+  }, {
+    "tStartMs": 1834958,
+    "dDurationMs": 2836,
+    "segs": [ {
+      "utf8": "The lead male performs the final move."
+    } ]
+  }, {
+    "tStartMs": 1837877,
+    "dDurationMs": 1543,
+    "segs": [ {
+      "utf8": "[high-pitched tweets]"
+    } ]
+  }, {
+    "tStartMs": 1842257,
+    "dDurationMs": 1251,
+    "segs": [ {
+      "utf8": "Have they done enough?"
+    } ]
+  }, {
+    "tStartMs": 1845510,
+    "dDurationMs": 1209,
+    "segs": [ {
+      "utf8": "What's her decision?"
+    } ]
+  }, {
+    "tStartMs": 1846803,
+    "dDurationMs": 2210,
+    "segs": [ {
+      "utf8": "[chirruping]"
+    } ]
+  }, {
+    "tStartMs": 1853351,
+    "dDurationMs": 918,
+    "segs": [ {
+      "utf8": "It's..."
+    } ]
+  }, {
+    "tStartMs": 1854727,
+    "dDurationMs": 1085,
+    "segs": [ {
+      "utf8": "a yes!"
+    } ]
+  }, {
+    "tStartMs": 1860358,
+    "dDurationMs": 1627,
+    "segs": [ {
+      "utf8": "A great team effort."
+    } ]
+  }, {
+    "tStartMs": 1862318,
+    "dDurationMs": 2628,
+    "segs": [ {
+      "utf8": "[chirruping]"
+    } ]
+  }, {
+    "tStartMs": 1867574,
+    "dDurationMs": 4921,
+    "segs": [ {
+      "utf8": "Tropical forests cover\nonly seven percent of the planet's lands."
+    } ]
+  }, {
+    "tStartMs": 1874414,
+    "dDurationMs": 3670,
+    "segs": [ {
+      "utf8": "Away from the tropics,\nwhere the weather is seasonal and cooler,"
+    } ]
+  }, {
+    "tStartMs": 1878501,
+    "dDurationMs": 1251,
+    "segs": [ {
+      "utf8": "they're very different."
+    } ]
+  }, {
+    "tStartMs": 1883381,
+    "dDurationMs": 3587,
+    "segs": [ {
+      "utf8": "The greatest of all is the boreal forest"
+    } ]
+  }, {
+    "tStartMs": 1887635,
+    "dDurationMs": 3712,
+    "segs": [ {
+      "utf8": "that extends right across North America\nand Eurasia."
+    } ]
+  }, {
+    "tStartMs": 1898438,
+    "dDurationMs": 3545,
+    "segs": [ {
+      "utf8": "It cannot grow\nduring the frigid grip of winter."
+    } ]
+  }, {
+    "tStartMs": 1906279,
+    "dDurationMs": 2669,
+    "segs": [ {
+      "utf8": "The forests are a crucial refuge"
+    } ]
+  }, {
+    "tStartMs": 1909407,
+    "dDurationMs": 4379,
+    "segs": [ {
+      "utf8": "for the relatively few species\nthat are able to survive here."
+    } ]
+  }, {
+    "tStartMs": 1921753,
+    "dDurationMs": 1418,
+    "segs": [ {
+      "utf8": "[wind howls]"
+    } ]
+  }, {
+    "tStartMs": 1923254,
+    "dDurationMs": 1418,
+    "segs": [ {
+      "utf8": "As winter approaches,"
+    } ]
+  }, {
+    "tStartMs": 1925131,
+    "dDurationMs": 3462,
+    "segs": [ {
+      "utf8": "caribou grazing on the open tundra\nto the north"
+    } ]
+  }, {
+    "tStartMs": 1929052,
+    "dDurationMs": 4379,
+    "segs": [ {
+      "utf8": "head south to the forest\nto seek food and shelter."
+    } ]
+  }, {
+    "tStartMs": 1945026,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "Out here, temperatures may fall\nbelow minus 40 degrees centigrade."
+    } ]
+  }, {
+    "tStartMs": 1958456,
+    "dDurationMs": 4379,
+    "segs": [ {
+      "utf8": "The forest will give some protection\nfrom the worst of the weather."
+    } ]
+  }, {
+    "tStartMs": 1988861,
+    "dDurationMs": 4380,
+    "segs": [ {
+      "utf8": "But now the caribou\nare not traveling alone."
+    } ]
+  }, {
+    "tStartMs": 2002834,
+    "dDurationMs": 876,
+    "segs": [ {
+      "utf8": "Wolves."
+    } ]
+  }, {
+    "tStartMs": 2004877,
+    "dDurationMs": 2378,
+    "segs": [ {
+      "utf8": "They live in the forest year-round."
+    } ]
+  }, {
+    "tStartMs": 2012760,
+    "dDurationMs": 3837,
+    "segs": [ {
+      "utf8": "And in the winter,\nthey specialize in hunting caribou."
+    } ]
+  }, {
+    "tStartMs": 2031487,
+    "dDurationMs": 2419,
+    "segs": [ {
+      "utf8": "They must find the freshest tracks."
+    } ]
+  }, {
+    "tStartMs": 2045501,
+    "dDurationMs": 3379,
+    "segs": [ {
+      "utf8": "They move fast by avoiding the deep snow,"
+    } ]
+  }, {
+    "tStartMs": 2049547,
+    "dDurationMs": 3587,
+    "segs": [ {
+      "utf8": "sticking to the hard-packed trails\nmade by the caribou."
+    } ]
+  }, {
+    "tStartMs": 2058473,
+    "dDurationMs": 2669,
+    "segs": [ {
+      "utf8": "This wolf has found fresh scent."
+    } ]
+  }, {
+    "tStartMs": 2071486,
+    "dDurationMs": 1835,
+    "segs": [ {
+      "utf8": "The caribou must be close."
+    } ]
+  }, {
+    "tStartMs": 2083748,
+    "dDurationMs": 4671,
+    "segs": [ {
+      "utf8": "The herd chooses to stop to rest\non a frozen lake."
+    } ]
+  }, {
+    "tStartMs": 2090755,
+    "dDurationMs": 3462,
+    "segs": [ {
+      "utf8": "Out in the open, they will be able to spot\napproaching danger."
+    } ]
+  }, {
+    "tStartMs": 2094300,
+    "dDurationMs": 2795,
+    "segs": [ {
+      "utf8": "[faint grunting]"
+    } ]
+  }, {
+    "tStartMs": 2098096,
+    "dDurationMs": 3169,
+    "segs": [ {
+      "utf8": "And sure enough, the wolves catch up."
+    } ]
+  }, {
+    "tStartMs": 2108314,
+    "dDurationMs": 2252,
+    "segs": [ {
+      "utf8": "[caribou bleating]"
+    } ]
+  }, {
+    "tStartMs": 2115738,
+    "dDurationMs": 2211,
+    "segs": [ {
+      "utf8": "They start to test the caribou,"
+    } ]
+  }, {
+    "tStartMs": 2118866,
+    "dDurationMs": 1710,
+    "segs": [ {
+      "utf8": "probing for any weakness."
+    } ]
+  }, {
+    "tStartMs": 2121494,
+    "dDurationMs": 1752,
+    "segs": [ {
+      "utf8": "[rapid bleating]"
+    } ]
+  }, {
+    "tStartMs": 2133631,
+    "dDurationMs": 1460,
+    "segs": [ {
+      "utf8": "Out on the open lake,"
+    } ]
+  }, {
+    "tStartMs": 2136050,
+    "dDurationMs": 2544,
+    "segs": [ {
+      "utf8": "the caribou can outrun the wolves..."
+    } ]
+  }, {
+    "tStartMs": 2145393,
+    "dDurationMs": 2961,
+    "segs": [ {
+      "utf8": "so the wolves drive them back \ninto the forest."
+    } ]
+  }, {
+    "tStartMs": 2156571,
+    "dDurationMs": 4963,
+    "segs": [ {
+      "utf8": "Here, in the deep snow,\nprogress is much harder and slower."
+    } ]
+  }, {
+    "tStartMs": 2165955,
+    "dDurationMs": 1543,
+    "segs": [ {
+      "utf8": "[bleating]"
+    } ]
+  }, {
+    "tStartMs": 2170668,
+    "dDurationMs": 4213,
+    "segs": [ {
+      "utf8": "And, hidden by the trees,\nthe wolves can get closer."
+    } ]
+  }, {
+    "tStartMs": 2180678,
+    "dDurationMs": 1668,
+    "segs": [ {
+      "utf8": "The hunt is on."
+    } ]
+  }, {
+    "tStartMs": 2183431,
+    "dDurationMs": 1543,
+    "segs": [ {
+      "utf8": "[bleating]"
+    } ]
+  }, {
+    "tStartMs": 2186350,
+    "dDurationMs": 2628,
+    "segs": [ {
+      "utf8": "[snorting]"
+    } ]
+  }, {
+    "tStartMs": 2192481,
+    "dDurationMs": 2378,
+    "segs": [ {
+      "utf8": "[bleating]"
+    } ]
+  }, {
+    "tStartMs": 2194942,
+    "dDurationMs": 4046,
+    "segs": [ {
+      "utf8": "The pack must decide\nwhich particular caribou to target"
+    } ]
+  }, {
+    "tStartMs": 2200865,
+    "dDurationMs": 1543,
+    "segs": [ {
+      "utf8": "and which trail to take."
+    } ]
+  }, {
+    "tStartMs": 2209665,
+    "dDurationMs": 1585,
+    "segs": [ {
+      "utf8": "As the caribou scatter,"
+    } ]
+  }, {
+    "tStartMs": 2213461,
+    "dDurationMs": 2753,
+    "segs": [ {
+      "utf8": "the leading wolf takes a wrong turn."
+    } ]
+  }, {
+    "tStartMs": 2219967,
+    "dDurationMs": 4797,
+    "segs": [ {
+      "utf8": "It's a crucial mistake,\nand the wolves abandon the chase."
+    } ]
+  }, {
+    "tStartMs": 2234065,
+    "dDurationMs": 4337,
+    "segs": [ {
+      "utf8": "With the coming of spring,\nthe caribou will head north once more,"
+    } ]
+  }, {
+    "tStartMs": 2238653,
+    "dDurationMs": 2961,
+    "segs": [ {
+      "utf8": "leaving the wolves and the forest behind."
+    } ]
+  }, {
+    "tStartMs": 2244617,
+    "dDurationMs": 5130,
+    "segs": [ {
+      "utf8": "They will travel 600 kilometers,\ncrossing mountains to reach the tundra,"
+    } ]
+  }, {
+    "tStartMs": 2250039,
+    "dDurationMs": 2836,
+    "segs": [ {
+      "utf8": "where the spring grass\nwill be sprouting again,"
+    } ]
+  }, {
+    "tStartMs": 2253417,
+    "dDurationMs": 1418,
+    "segs": [ {
+      "utf8": "and they can give birth."
+    } ]
+  }, {
+    "tStartMs": 2257380,
+    "dDurationMs": 4838,
+    "segs": [ {
+      "utf8": "But these migrations\nare a shadow of what they once were."
+    } ]
+  }, {
+    "tStartMs": 2264345,
+    "dDurationMs": 3962,
+    "segs": [ {
+      "utf8": "The herd has lost\nnearly 70 percent of its numbers"
+    } ]
+  }, {
+    "tStartMs": 2268391,
+    "dDurationMs": 1877,
+    "segs": [ {
+      "utf8": "in the last 20 years."
+    } ]
+  }, {
+    "tStartMs": 2273312,
+    "dDurationMs": 4838,
+    "segs": [ {
+      "utf8": "Their world and all of our planet\nis now changing fast."
+    } ]
+  }, {
+    "tStartMs": 2285032,
+    "dDurationMs": 2628,
+    "segs": [ {
+      "utf8": "At the furthest polar extremes"
+    } ]
+  }, {
+    "tStartMs": 2288286,
+    "dDurationMs": 5255,
+    "segs": [ {
+      "utf8": "lie the frozen wildernesses\nof Antarctica and the Arctic."
+    } ]
+  }, {
+    "tStartMs": 2298087,
+    "dDurationMs": 3086,
+    "segs": [ {
+      "utf8": "Though they may seem remote\nto many of us,"
+    } ]
+  }, {
+    "tStartMs": 2301966,
+    "dDurationMs": 5422,
+    "segs": [ {
+      "utf8": "the stability of these icy wastes\nis crucial to all life on the planet."
+    } ]
+  }, {
+    "tStartMs": 2313185,
+    "dDurationMs": 5840,
+    "segs": [ {
+      "utf8": "But in just 70 years,\nthings have changed at a frightening pace."
+    } ]
+  }, {
+    "tStartMs": 2321569,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "The polar regions are warming faster\nthan any other part of the planet."
+    } ]
+  }, {
+    "tStartMs": 2333622,
+    "dDurationMs": 4088,
+    "segs": [ {
+      "utf8": "The Arctic in the north is a frozen ocean,"
+    } ]
+  }, {
+    "tStartMs": 2339670,
+    "dDurationMs": 3796,
+    "segs": [ {
+      "utf8": "and the sea ice,\non which all life here depends,"
+    } ]
+  }, {
+    "tStartMs": 2344508,
+    "dDurationMs": 1126,
+    "segs": [ {
+      "utf8": "is disappearing."
+    } ]
+  }, {
+    "tStartMs": 2353184,
+    "dDurationMs": 2460,
+    "segs": [ {
+      "utf8": "[panting]"
+    } ]
+  }, {
+    "tStartMs": 2361525,
+    "dDurationMs": 1252,
+    "segs": [ {
+      "utf8": "Polar bears"
+    } ]
+  }, {
+    "tStartMs": 2363361,
+    "dDurationMs": 4045,
+    "segs": [ {
+      "utf8": "specialize in hunting seals\nout on the frozen ocean."
+    } ]
+  }, {
+    "tStartMs": 2373120,
+    "dDurationMs": 4922,
+    "segs": [ {
+      "utf8": "But that world is now, literally,\nmelting beneath their feet."
+    } ]
+  }, {
+    "tStartMs": 2382338,
+    "dDurationMs": 2461,
+    "segs": [ {
+      "utf8": "The sea ice breaks up every year,"
+    } ]
+  }, {
+    "tStartMs": 2385341,
+    "dDurationMs": 2044,
+    "segs": [ {
+      "utf8": "but now this is happening earlier,"
+    } ]
+  }, {
+    "tStartMs": 2387718,
+    "dDurationMs": 3629,
+    "segs": [ {
+      "utf8": "and the bears' limited hunting season\nis getting shorter."
+    } ]
+  }, {
+    "tStartMs": 2393849,
+    "dDurationMs": 3254,
+    "segs": [ {
+      "utf8": "This is already having a profound impact."
+    } ]
+  }, {
+    "tStartMs": 2401023,
+    "dDurationMs": 1502,
+    "segs": [ {
+      "utf8": "[gentle snorting]"
+    } ]
+  }, {
+    "tStartMs": 2409532,
+    "dDurationMs": 2419,
+    "segs": [ {
+      "utf8": "Cubs are growing up underweight,"
+    } ]
+  }, {
+    "tStartMs": 2414161,
+    "dDurationMs": 2419,
+    "segs": [ {
+      "utf8": "which reduces their chances of survival."
+    } ]
+  }, {
+    "tStartMs": 2419083,
+    "dDurationMs": 1501,
+    "segs": [ {
+      "utf8": "[snuffling]"
+    } ]
+  }, {
+    "tStartMs": 2435099,
+    "dDurationMs": 2544,
+    "segs": [ {
+      "utf8": "Within the lifetime of these cubs,"
+    } ]
+  }, {
+    "tStartMs": 2437726,
+    "dDurationMs": 5005,
+    "segs": [ {
+      "utf8": "the Arctic in summer\ncould be largely free of sea ice."
+    } ]
+  }, {
+    "tStartMs": 2445568,
+    "dDurationMs": 1418,
+    "segs": [ {
+      "utf8": "[gentle snorting]"
+    } ]
+  }, {
+    "tStartMs": 2458831,
+    "dDurationMs": 3420,
+    "segs": [ {
+      "utf8": "It's not just the sea ice\nthat is vanishing."
+    } ]
+  }, {
+    "tStartMs": 2463878,
+    "dDurationMs": 4296,
+    "segs": [ {
+      "utf8": "The ice that lies on land\nis also changing fast."
+    } ]
+  }, {
+    "tStartMs": 2472803,
+    "dDurationMs": 2044,
+    "segs": [ {
+      "utf8": "This is Greenland,"
+    } ]
+  }, {
+    "tStartMs": 2475681,
+    "dDurationMs": 5172,
+    "segs": [ {
+      "utf8": "a vast expanse of ice\none-fifth the size of the United States."
+    } ]
+  }, {
+    "tStartMs": 2488068,
+    "dDurationMs": 3546,
+    "segs": [ {
+      "utf8": "This glacial ice,\ntogether with the sea ice,"
+    } ]
+  }, {
+    "tStartMs": 2491906,
+    "dDurationMs": 5171,
+    "segs": [ {
+      "utf8": "protects our planet by reflecting\nsolar radiation away from the surface"
+    } ]
+  }, {
+    "tStartMs": 2497286,
+    "dDurationMs": 3003,
+    "segs": [ {
+      "utf8": "and so preventing the Earth\nfrom overheating."
+    } ]
+  }, {
+    "tStartMs": 2505878,
+    "dDurationMs": 3003,
+    "segs": [ {
+      "utf8": "But the Arctic is warming dramatically."
+    } ]
+  }, {
+    "tStartMs": 2516430,
+    "dDurationMs": 4463,
+    "segs": [ {
+      "utf8": "The leading edge of the Store Glacier\nmay appear to be motionless,"
+    } ]
+  }, {
+    "tStartMs": 2522102,
+    "dDurationMs": 4004,
+    "segs": [ {
+      "utf8": "but glaciers can move\nat up to 45 meters a day."
+    } ]
+  }, {
+    "tStartMs": 2526232,
+    "dDurationMs": 1960,
+    "segs": [ {
+      "utf8": "[ice rumbling]"
+    } ]
+  }, {
+    "tStartMs": 2533072,
+    "dDurationMs": 4963,
+    "segs": [ {
+      "utf8": "Where this one meets the sea,\nit towers 100 meters above the water,"
+    } ]
+  }, {
+    "tStartMs": 2539537,
+    "dDurationMs": 3294,
+    "segs": [ {
+      "utf8": "and continues downward\nfor another 400 meters"
+    } ]
+  }, {
+    "tStartMs": 2542915,
+    "dDurationMs": 1418,
+    "segs": [ {
+      "utf8": "beneath the surface."
+    } ]
+  }, {
+    "tStartMs": 2549505,
+    "dDurationMs": 1877,
+    "segs": [ {
+      "utf8": "[ice cracking]"
+    } ]
+  }, {
+    "tStartMs": 2560599,
+    "dDurationMs": 1543,
+    "segs": [ {
+      "utf8": "[waves rushing]"
+    } ]
+  }, {
+    "tStartMs": 2587876,
+    "dDurationMs": 4964,
+    "segs": [ {
+      "utf8": "Over the last 20 years,\nGreenland has been losing ice."
+    } ]
+  }, {
+    "tStartMs": 2599138,
+    "dDurationMs": 3628,
+    "segs": [ {
+      "utf8": "And the rate of loss is accelerating."
+    } ]
+  }, {
+    "tStartMs": 2605185,
+    "dDurationMs": 1544,
+    "segs": [ {
+      "utf8": "[ice rumbling]"
+    } ]
+  }, {
+    "tStartMs": 2611942,
+    "dDurationMs": 1835,
+    "segs": [ {
+      "utf8": "[crashing]"
+    } ]
+  }, {
+    "tStartMs": 2618073,
+    "dDurationMs": 3379,
+    "segs": [ {
+      "utf8": "These massive icefalls\nfrom the top of the glacier"
+    } ]
+  }, {
+    "tStartMs": 2621827,
+    "dDurationMs": 1543,
+    "segs": [ {
+      "utf8": "are just the beginnings"
+    } ]
+  }, {
+    "tStartMs": 2623829,
+    "dDurationMs": 1960,
+    "segs": [ {
+      "utf8": "of a far greater event."
+    } ]
+  }, {
+    "tStartMs": 2627458,
+    "dDurationMs": 2210,
+    "segs": [ {
+      "utf8": "[icefalls crashing in distance]"
+    } ]
+  }, {
+    "tStartMs": 2630586,
+    "dDurationMs": 4629,
+    "segs": [ {
+      "utf8": "A stretch of the front face of the glacier\nover a kilometer long"
+    } ]
+  }, {
+    "tStartMs": 2635299,
+    "dDurationMs": 2044,
+    "segs": [ {
+      "utf8": "is starting to break away."
+    } ]
+  }, {
+    "tStartMs": 2637426,
+    "dDurationMs": 1627,
+    "segs": [ {
+      "utf8": "[ice rumbling]"
+    } ]
+  }, {
+    "tStartMs": 2641889,
+    "dDurationMs": 1418,
+    "segs": [ {
+      "utf8": "[ice crashing]"
+    } ]
+  }, {
+    "tStartMs": 2648520,
+    "dDurationMs": 2670,
+    "segs": [ {
+      "utf8": "From 400 meters beneath the surface,"
+    } ]
+  }, {
+    "tStartMs": 2651732,
+    "dDurationMs": 2920,
+    "segs": [ {
+      "utf8": "the hidden ice is surging upwards."
+    } ]
+  }, {
+    "tStartMs": 2657196,
+    "dDurationMs": 1626,
+    "segs": [ {
+      "utf8": "[waves rushing]"
+    } ]
+  }, {
+    "tStartMs": 2670876,
+    "dDurationMs": 1752,
+    "segs": [ {
+      "utf8": "[crashing]"
+    } ]
+  }, {
+    "tStartMs": 2672711,
+    "dDurationMs": 3879,
+    "segs": [ {
+      "utf8": "The breakaway of an iceberg\nthe size of a skyscraper"
+    } ]
+  }, {
+    "tStartMs": 2677633,
+    "dDurationMs": 3045,
+    "segs": [ {
+      "utf8": "generates a colossal tidal wave."
+    } ]
+  }, {
+    "tStartMs": 2682262,
+    "dDurationMs": 1752,
+    "segs": [ {
+      "utf8": "[wave rushing]"
+    } ]
+  }, {
+    "tStartMs": 2696652,
+    "dDurationMs": 2252,
+    "segs": [ {
+      "utf8": "-[crashing]\n-[rumbling]"
+    } ]
+  }, {
+    "tStartMs": 2715671,
+    "dDurationMs": 2002,
+    "segs": [ {
+      "utf8": "[classical music score plays]"
+    } ]
+  }, {
+    "tStartMs": 2756670,
+    "dDurationMs": 6215,
+    "segs": [ {
+      "utf8": "Within 20 minutes,\n75 million tons of ice break free."
+    } ]
+  }, {
+    "tStartMs": 2770100,
+    "dDurationMs": 3671,
+    "segs": [ {
+      "utf8": "Glaciers have always released ice\ninto the ocean,"
+    } ]
+  }, {
+    "tStartMs": 2774938,
+    "dDurationMs": 3254,
+    "segs": [ {
+      "utf8": "but now this is happening\nnearly twice as fast"
+    } ]
+  }, {
+    "tStartMs": 2778275,
+    "dDurationMs": 2085,
+    "segs": [ {
+      "utf8": "as it did ten years ago."
+    } ]
+  }, {
+    "tStartMs": 2783572,
+    "dDurationMs": 5547,
+    "segs": [ {
+      "utf8": "Around the world, ice is now feeding\nvast amounts of fresh water into the sea,"
+    } ]
+  }, {
+    "tStartMs": 2789828,
+    "dDurationMs": 5798,
+    "segs": [ {
+      "utf8": "raising sea levels, changing salinity,\nand disrupting ocean currents."
+    } ]
+  }, {
+    "tStartMs": 2799004,
+    "dDurationMs": 5339,
+    "segs": [ {
+      "utf8": "Without the Humboldt Current,\nthe coast of Peru would fall silent."
+    } ]
+  }, {
+    "tStartMs": 2805803,
+    "dDurationMs": 3086,
+    "segs": [ {
+      "utf8": "The seabird spectacle would be no more."
+    } ]
+  }, {
+    "tStartMs": 2820526,
+    "dDurationMs": 4963,
+    "segs": [ {
+      "utf8": "All across our planet,\ncrucial connections are being disrupted."
+    } ]
+  }, {
+    "tStartMs": 2829409,
+    "dDurationMs": 5256,
+    "segs": [ {
+      "utf8": "The stability that we\nand all life relies upon is being lost."
+    } ]
+  }, {
+    "tStartMs": 2838043,
+    "dDurationMs": 3045,
+    "segs": [ {
+      "utf8": "What we do in the next 20 years"
+    } ]
+  }, {
+    "tStartMs": 2842422,
+    "dDurationMs": 4213,
+    "segs": [ {
+      "utf8": "will determine the future\nfor all life on Earth."
+    } ]
+  }, {
+    "tStartMs": 2855435,
+    "dDurationMs": 5131,
+    "segs": [ {
+      "utf8": "The rest of this series will explore\nthe planet's most important habitats,"
+    } ]
+  }, {
+    "tStartMs": 2862067,
+    "dDurationMs": 3712,
+    "segs": [ {
+      "utf8": "and celebrate the life they still support."
+    } ]
+  }, {
+    "tStartMs": 2873370,
+    "dDurationMs": 3420,
+    "segs": [ {
+      "utf8": "We will reveal what must be preserved"
+    } ]
+  }, {
+    "tStartMs": 2876999,
+    "dDurationMs": 6673,
+    "segs": [ {
+      "utf8": "if we are to ensure a future\nwhere humans and nature can thrive."
+    } ]
+  }, {
+    "tStartMs": 2893807,
+    "dDurationMs": 5798,
+    "segs": [ {
+      "utf8": "Please visit ourplanet.com to find out\nhow our planet can thrive again."
+    } ]
+  }, {
+    "tStartMs": 2902941,
+    "dDurationMs": 1752,
+    "segs": [ {
+      "utf8": "[Ellie Goulding:\n\"In This Together\"]"
+    } ]
+  }, {
+    "tStartMs": 2904776,
+    "dDurationMs": 4463,
+    "segs": [ {
+      "utf8": "♪ I can hear the whole world\nSinging together ♪"
+    } ]
+  }, {
+    "tStartMs": 2911533,
+    "dDurationMs": 6215,
+    "segs": [ {
+      "utf8": "♪ I can hear the whole world say\n\"It's now or never\" ♪"
+    } ]
+  }, {
+    "tStartMs": 2920292,
+    "dDurationMs": 4421,
+    "segs": [ {
+      "utf8": "♪ 'Cause it's not too late\nIf we change our ways ♪"
+    } ]
+  }, {
+    "tStartMs": 2924796,
+    "dDurationMs": 3671,
+    "segs": [ {
+      "utf8": "♪ And connect the dots to our problems ♪"
+    } ]
+  }, {
+    "tStartMs": 2928550,
+    "dDurationMs": 6048,
+    "segs": [ {
+      "utf8": "♪ I can hear the whole world say\n\"We're in this together\" ♪"
+    } ]
+  }, {
+    "tStartMs": 2934681,
+    "dDurationMs": 2002,
+    "segs": [ {
+      "utf8": "♪ We're in this together ♪"
+    } ]
+  }, {
+    "tStartMs": 2937059,
+    "dDurationMs": 4296,
+    "segs": [ {
+      "utf8": "[vocalizing]"
+    } ]
+  } ]
+}
