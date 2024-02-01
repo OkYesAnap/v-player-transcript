@@ -1,5 +1,5 @@
 import VideoPlayerBlock from "./VideoPlayerBlock";
-import VIdeoPlayerTranscriptionsBlock from "./VIdeoPlayerTranscriptionsBlock";
+import VideoPlayerTranscriptionsBlock from "./VideoPlayerTranscriptionsBlock";
 import React from "react";
 import styled from "styled-components";
 
@@ -12,7 +12,7 @@ const VideoPlayerAndTranscriptionsWrapper = () => {
     return (
         <StyledVideoPlayerAndTranscriptionsWrapper>
             <VideoPlayerBlock/>
-            <VIdeoPlayerTranscriptionsBlock/>
+            <VideoPlayerTranscriptionsBlock/>
         </StyledVideoPlayerAndTranscriptionsWrapper>)
 }
 

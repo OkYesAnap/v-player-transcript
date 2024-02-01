@@ -5,7 +5,7 @@ import {PlayerContext, PlayerContextProps} from "../playerContext/PlayerContext"
 import {checkDeletedTime} from "../utils/transcriptionUtils";
 
 const StyledReactPlayer = styled.div`
-  flex: 2;
+  flex: 1;
 `;
 
 const VideoPlayerBlock: React.FC = () => {
@@ -38,6 +38,7 @@ const VideoPlayerBlock: React.FC = () => {
     return (<StyledReactPlayer>
         <ReactPlayer {...{
             ref: playerRef,
+            width: "100%",
             playing: true,
             onReady: handleOnReady,
             url: `https://www.youtube.com/watch?v=${videoId}`,

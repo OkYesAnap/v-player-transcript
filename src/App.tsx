@@ -9,7 +9,7 @@ import {TranscriptionEvent} from "./utils/transcriptionUtils";
 import {EXAMPLES} from "./constants/examples";
 
 const StyledMain = styled.div`
-  width: 50%;
+  width: 80%;
 `
 
 function App() {

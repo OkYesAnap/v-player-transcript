@@ -15,7 +15,7 @@ const StyledExampleButton = styled(Button)`
 
 const VideoPlayerExamplesBar: React.FC = () => {
 
-    const {setVideoProps, playerRef, setDuration, setCurrentTime, setDeletedTranscriptions} = useContext(PlayerContext);
+    const {videoProps, setVideoProps, playerRef, setDuration, setCurrentTime, setDeletedTranscriptions} = useContext(PlayerContext);
 
     const onExample1Click = (example: VideoProps) => {
         setVideoProps(example);
@@ -26,10 +26,14 @@ const VideoPlayerExamplesBar: React.FC = () => {
         setDeletedTranscriptions([]);
     }
 
+    const {example1, example2, example3} = EXAMPLES
+
+    const isDisabled = ((example:VideoProps):boolean => example.Id === videoProps.Id)
+
     return (<StyledExampleBar>
-        <StyledExampleButton onClick={() => onExample1Click(EXAMPLES.example1)}>Example 1</StyledExampleButton>
-        <StyledExampleButton onClick={() => onExample1Click(EXAMPLES.example2)}>Example 2</StyledExampleButton>
-        <StyledExampleButton onClick={() => onExample1Click(EXAMPLES.example3)}>Example 3</StyledExampleButton>
+        <StyledExampleButton disabled={isDisabled(example1)} onClick={() => onExample1Click(example1)}>Example 1</StyledExampleButton>
+        <StyledExampleButton disabled={isDisabled(example2)} onClick={() => onExample1Click(example2)}>Example 2</StyledExampleButton>
+        <StyledExampleButton disabled={isDisabled(example3)} onClick={() => onExample1Click(example3)}>Example 3</StyledExampleButton>
     </StyledExampleBar>)
 }
 export default VideoPlayerExamplesBar;

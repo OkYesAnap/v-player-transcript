@@ -26,7 +26,7 @@ const StyledTranscription = styled.div<{ currenttranscription: string }>`
 `;
 
 const StyledTranscriptionWrapper = styled.div`
-  flex: 3;
+  flex: 1;
   height: 360px;
   overflow-y: auto;
 `;
@@ -64,7 +64,7 @@ const StyledTextSpan = styled.div`
   padding: 0.5rem;
 `;
 
-const VIdeoPlayerTranscriptionsBlock: React.FC = () => {
+const VideoPlayerTranscriptionsBlock: React.FC = () => {
 
     const {
         currentTime,
@@ -74,20 +74,23 @@ const VIdeoPlayerTranscriptionsBlock: React.FC = () => {
         setDeletedTranscriptions,
         showTrimmedSegments
     } = useContext<PlayerContextProps>(PlayerContext)
-    const [indexOfCurrentTranscription, setIndexOfCurrentTranscription] = useState<number>(0)
+    const [idOfCurrentTranscription, setIdOfCurrentTranscription] = useState<number>(0)
 
     const currentTranscriptionRef = useRef<HTMLDivElement>(null);
+    const amountOfTranscriptions: HTMLCollection | undefined = currentTranscriptionRef?.current?.children;
 
     const handleTranscriptionClick = (startTime: number) => {
         playerRef?.current?.seekTo(Number(startTime / 1000));
     };
 
     useEffect(() => {
-        if (currentTranscriptionRef.current) {
-            const сhild = currentTranscriptionRef.current.children[indexOfCurrentTranscription];
-            сhild.scrollIntoView({behavior: 'smooth', block: "nearest"});
+        if (amountOfTranscriptions) {
+            const childWithKey = Array.from(amountOfTranscriptions).find(child => {
+                return Number(child.id) === idOfCurrentTranscription
+            });
+            childWithKey?.scrollIntoView({behavior: 'smooth', block: "nearest"});
         }
-    }, [indexOfCurrentTranscription, showTrimmedSegments]);
+    }, [idOfCurrentTranscription, showTrimmedSegments, amountOfTranscriptions]);
 
     const onDeleteAddClick = (transcription: TranscriptionEvent) => {
         setDeletedTranscriptions([...deletedTranscriptions, transcription]);
@@ -107,12 +110,13 @@ const VIdeoPlayerTranscriptionsBlock: React.FC = () => {
             {transcriptions.events.map((transcription: TranscriptionEvent, index) => {
                 const currentTranscription = isCurrentTranscription(transcription, currentTime);
                 const isDeleted = getDeletedItem(transcription, deletedTranscriptions);
-                if (currentTranscription && indexOfCurrentTranscription !== index) setIndexOfCurrentTranscription(index);
-                if(showTrimmedSegments || !isDeleted) {
+                if (currentTranscription && idOfCurrentTranscription !== transcription.tStartMs) setIdOfCurrentTranscription(transcription.tStartMs);
+                if (showTrimmedSegments || !isDeleted) {
                     return (
                         <StyledTranscription
                             {...{
-                                key: `${index}-${transcription.tStartMs}`,
+                                id: `${transcription.tStartMs}`,
+                                key: `${transcription.tStartMs}`,
                                 currenttranscription: String(currentTranscription)
                             }}
                         >
@@ -126,10 +130,10 @@ const VIdeoPlayerTranscriptionsBlock: React.FC = () => {
                             </StyledTranscriptionTextWithBucket>
                         </StyledTranscription>
                     )
-                }
+                } else return null
             })}
         </StyledTranscriptionLines>
     </StyledTranscriptionWrapper>
 }
 
-export default VIdeoPlayerTranscriptionsBlock;
+export default VideoPlayerTranscriptionsBlock;
