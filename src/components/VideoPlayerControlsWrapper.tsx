@@ -9,6 +9,7 @@ import VideoPlayerExamplesBar from "./VideoPlayerExamplesBar";
 
 const StyledDuration = styled.div`
   font-size: 0.8em;
+  width: 8%;
   margin: 0 1rem 0 0.2rem;
 `;
 
