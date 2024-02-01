@@ -87,7 +87,7 @@ const VIdeoPlayerTranscriptionsBlock: React.FC = () => {
             const сhild = currentTranscriptionRef.current.children[indexOfCurrentTranscription];
             сhild.scrollIntoView({behavior: 'smooth', block: "nearest"});
         }
-    }, [indexOfCurrentTranscription]);
+    }, [indexOfCurrentTranscription, showTrimmedSegments]);
 
     const onDeleteAddClick = (transcription: TranscriptionEvent) => {
         setDeletedTranscriptions([...deletedTranscriptions, transcription]);

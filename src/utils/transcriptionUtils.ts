@@ -19,15 +19,22 @@ export const getSkippedTranscriptions = (transcriptions: JSONDataTranscriptions,
     }, '')
 };
 
+const roundToHundredths = (num: number) => {
+    return Math.round(num / 10) * 10;
+}
+
 const convertToMs = (time: number): number => Math.round(time * 100) * 10;
 
 export const checkDeletedTime = (currentTime: number = 0, deletedTranscriptions: TranscriptionEvent[], switchTo: number = 0): number | undefined => {
     const time = convertToMs(currentTime);
+    console.log(time, switchTo);
     const isDeleted = deletedTranscriptions.find((deletedTranscription: TranscriptionEvent) => {
-        return time >= (deletedTranscription.tStartMs) && time < deletedTranscription.tStartMs + deletedTranscription.dDurationMs
+        return time >= (deletedTranscription.tStartMs) && time < roundToHundredths(deletedTranscription.tStartMs + deletedTranscription.dDurationMs)
     })
     if (isDeleted) {
-        return checkDeletedTime((isDeleted.dDurationMs + isDeleted.tStartMs) / 1000, deletedTranscriptions, (isDeleted.dDurationMs + isDeleted.tStartMs) / 1000)
+
+        console.log(isDeleted.dDurationMs, isDeleted.tStartMs);
+        return checkDeletedTime((isDeleted.dDurationMs + isDeleted.tStartMs) / 1000, deletedTranscriptions, roundToHundredths(isDeleted.dDurationMs + isDeleted.tStartMs) / 1000)
     }
     return switchTo
 }
