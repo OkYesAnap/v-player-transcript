@@ -36,5 +36,4 @@ const VideoPlayerControlsWrapper: React.FC = () => {
         </>
     )
 }
-
 export default VideoPlayerControlsWrapper
