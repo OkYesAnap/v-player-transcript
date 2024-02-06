@@ -1,22 +1,21 @@
 import React, {useContext, useEffect, useRef, useState} from "react";
 import {DeleteFilled} from '@ant-design/icons';
-import {getDeletedItem, TranscriptionEvent} from "../utils/transcriptionUtils";
+import {
+    concatenateSegments,
+    getDeletedItem,
+    isCurrentTranscription,
+    TranscriptionEvent
+} from "../utils/transcriptionUtils";
 import styled from "styled-components";
 import {PlayerContext, PlayerContextProps} from "../playerContext/PlayerContext";
 
-const isCurrentTranscription = (currentTranscription: TranscriptionEvent, currentTime: number): Boolean => {
-    const cTrans = currentTranscription;
-    const cTime = currentTime * 1000;
-    return cTime >= cTrans.tStartMs && cTime < cTrans.tStartMs + cTrans.dDurationMs
-}
-
-const StyledTranscription = styled.div<{ currenttranscription: string }>`
+const StyledTranscription = styled.div<{ $currenttranscription: string }>`
   border-radius: 0.3rem;
   cursor: pointer;
-  background-color: ${({currenttranscription}) => currenttranscription === "true" ? "#2d2d2d" : "transparent"};
+  background-color: ${({$currenttranscription}) => $currenttranscription === "true" ? "#2d2d2d" : "transparent"};
   font-family: "Open Sans", sans-serif;
   font-size: 14px;
-  font-weight: ${({currenttranscription}) => currenttranscription === "true" && "bold"};
+  font-weight: ${({$currenttranscription}) => $currenttranscription === "true" && "bold"};
   color: white;
 
   &:hover {
@@ -107,7 +106,7 @@ const VideoPlayerTranscriptionsBlock: React.FC = () => {
 
     return <StyledTranscriptionWrapper>
         <StyledTranscriptionLines  {...{ref: currentTranscriptionRef}}>
-            {transcriptions.events.map((transcription: TranscriptionEvent, index) => {
+            {transcriptions.events.map((transcription: TranscriptionEvent) => {
                 const currentTranscription = isCurrentTranscription(transcription, currentTime);
                 const isDeleted = getDeletedItem(transcription, deletedTranscriptions);
                 if (currentTranscription && idOfCurrentTranscription !== transcription.tStartMs) setIdOfCurrentTranscription(transcription.tStartMs);
@@ -117,12 +116,12 @@ const VideoPlayerTranscriptionsBlock: React.FC = () => {
                             {...{
                                 id: `${transcription.tStartMs}`,
                                 key: `${transcription.tStartMs}`,
-                                currenttranscription: String(currentTranscription)
+                                $currenttranscription: String(currentTranscription)
                             }}
                         >
                             <StyledTranscriptionTextWithBucket>
                                 <StyledTextSpan
-                                    onClick={() => handleTranscriptionClick(transcription?.tStartMs)}>{transcription?.segs[0]?.utf8}
+                                    onClick={() => handleTranscriptionClick(transcription?.tStartMs)}>{concatenateSegments(transcription?.segs || [])}
                                 </StyledTextSpan>
                                 {isDeleted ?
                                     <StyledDeleteFilledRed onClick={() => onDeleteClearClick(transcription)}/> :

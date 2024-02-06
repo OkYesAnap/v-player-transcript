@@ -5,7 +5,7 @@ import {PlayerContext} from './playerContext/PlayerContext';
 import VideoPlayerAndTranscriptionsWrapper from "./components/VideoPlayerAndTranscriptionsWrapper";
 import VideoPlayerControlsWrapper from "./components/VideoPlayerControlsWrapper";
 import styled from "styled-components";
-import {TranscriptionEvent} from "./utils/transcriptionUtils";
+import {preventTranscriptCollisions, TranscriptionEvent} from "./utils/transcriptionUtils";
 import {EXAMPLES} from "./constants/examples";
 
 const StyledMain = styled.div`
