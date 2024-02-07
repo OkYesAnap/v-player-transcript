@@ -5,15 +5,15 @@ import {PlayerContext} from './playerContext/PlayerContext';
 import VideoPlayerAndTranscriptionsWrapper from "./components/VideoPlayerAndTranscriptionsWrapper";
 import VideoPlayerControlsWrapper from "./components/VideoPlayerControlsWrapper";
 import styled from "styled-components";
-import {preventTranscriptCollisions, TranscriptionEvent} from "./utils/transcriptionUtils";
-import {EXAMPLES} from "./constants/examples";
+import {TranscriptionEvent, transcriptionsConverter} from "./utils/transcriptionUtils";
+import {randomStartItem} from "./components/VideoPlayerExamplesBar";
 
 const StyledMain = styled.div`
   width: 80%;
 `
 
 function App() {
-    const [videoProps, setVideoProps] = useState(EXAMPLES.example1);
+    const [videoProps, setVideoProps] = useState(transcriptionsConverter(randomStartItem()));
     const [currentTime, setCurrentTime] = useState<number>(0);
     const [duration, setDuration] = useState<number>(0);
     const [marksDensity, setMarksDensity] = useState<number>(20);

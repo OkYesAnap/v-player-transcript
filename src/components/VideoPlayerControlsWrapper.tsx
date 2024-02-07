@@ -18,7 +18,7 @@ const StyledControlsBar = styled.div`
   display: flex;
   align-items: center;
   justify-content: center;
-  background-color: #00005e;
+  background-color: #595959;
   padding: 1rem;
 `;
 

@@ -1,18 +1,21 @@
 import React, {useContext} from "react";
-import {Button} from "antd";
+import {Select} from "antd";
 import styled from "styled-components";
 import {PlayerContext} from "../playerContext/PlayerContext";
-import {EXAMPLES, VideoProps} from "../constants/examples";
-import {preventTranscriptCollisions} from "../utils/transcriptionUtils";
+import {EXAMPLES} from "../constants/examples";
+import {transcriptionsConverter} from "../utils/transcriptionUtils";
+import {valueType} from "antd/es/statistic/utils";
 
 const StyledExampleBar = styled.div`
   display: flex;
   align-items: center;
   margin: 0 1rem;
 `
-const StyledExampleButton = styled(Button)`
-  margin: 0 0.3rem;
-`
+
+export const randomStartItem = () => {
+    const randomItem = Math.floor(Math.random() * EXAMPLES.length);
+    return EXAMPLES[randomItem]
+}
 
 const VideoPlayerExamplesBar: React.FC = () => {
 
@@ -22,17 +25,12 @@ const VideoPlayerExamplesBar: React.FC = () => {
         playerRef,
         setDuration,
         setCurrentTime,
-        setDeletedTranscriptions
+        setDeletedTranscriptions,
     } = useContext(PlayerContext);
 
-    const onExample1Click = (example: VideoProps) => {
-        setVideoProps({
-            Id: example.Id,
-            transcriptions: {
-                ...example.transcriptions,
-                events: preventTranscriptCollisions(example.transcriptions.events)
-            }
-        });
+    const onExampleChange = (current: valueType) => {
+        const example = EXAMPLES.find(example => example.name === current);
+        setVideoProps(transcriptionsConverter(example));
         playerRef.current?.seekTo(0);
         playerRef.current?.getInternalPlayer().pauseVideo();
         setDuration(0);
@@ -40,19 +38,17 @@ const VideoPlayerExamplesBar: React.FC = () => {
         setDeletedTranscriptions([]);
     }
 
-    const {example1, example2, example3, example4} = EXAMPLES
-
-    const isDisabled = ((example: VideoProps): boolean => example.Id === videoProps.Id)
+    const VideoOptions = () => EXAMPLES.map(example => {
+        return {value: example.name, label: example.name};
+    })
 
     return (<StyledExampleBar>
-        <StyledExampleButton disabled={isDisabled(example1)} onClick={() => onExample1Click(example1)}>Vid
-            1</StyledExampleButton>
-        <StyledExampleButton disabled={isDisabled(example2)} onClick={() => onExample1Click(example2)}>Vid
-            2</StyledExampleButton>
-        <StyledExampleButton disabled={isDisabled(example3)} onClick={() => onExample1Click(example3)}>Vid
-            3</StyledExampleButton>
-        <StyledExampleButton disabled={isDisabled(example4)} onClick={() => onExample1Click(example4)}>Vid
-            4</StyledExampleButton>
+        <Select
+            options={VideoOptions()}
+            defaultValue={videoProps.name}
+            onChange={(value: valueType) => {
+                onExampleChange(value)
+            }}/>
     </StyledExampleBar>)
 }
 export default VideoPlayerExamplesBar;

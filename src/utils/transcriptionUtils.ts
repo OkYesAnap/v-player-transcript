@@ -1,3 +1,5 @@
+import {VideoProps} from "../constants/examples";
+
 export interface Seg {
     utf8: string;
     tOffsetMs?: number;
@@ -85,4 +87,15 @@ export const getDeletedItem = (currentTranscription: TranscriptionEvent, deleted
         return currentTranscription.tStartMs === deletedTranscription.tStartMs && currentTranscription.dDurationMs === deletedTranscription.dDurationMs
     })
     return isDeleted
+}
+
+export const transcriptionsConverter = (transcriptData: VideoProps | undefined): VideoProps => {
+  return {
+      Id: transcriptData?.Id || '',
+      name: transcriptData?.name || '',
+      transcriptions: {
+          ...transcriptData?.transcriptions,
+          events: preventTranscriptCollisions(transcriptData?.transcriptions.events || [])
+      }
+  }
 }

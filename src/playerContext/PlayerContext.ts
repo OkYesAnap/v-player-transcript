@@ -26,7 +26,7 @@ export interface PlayerContextProps {
 }
 
 export const DefaultPlayerContext: PlayerContextProps = {
-    videoProps: {...EXAMPLES.example1},
+    videoProps: {...EXAMPLES[1]},
     setVideoProps: () => {},
     videoId: '',
     transcriptions: {events: []},

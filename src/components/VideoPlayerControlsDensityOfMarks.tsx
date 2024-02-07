@@ -4,9 +4,7 @@ import {PlayerContext} from "../playerContext/PlayerContext";
 import styled from "styled-components";
 import {CheckboxChangeEvent} from "antd/lib/checkbox";
 
-type ValueType = number | undefined;
-
-const StyledInputNumber = styled(InputNumber)<{ value: ValueType }>`
+const StyledInputNumber = styled(InputNumber)`
   width: 100%;
   max-width: 55px;
   display: flex;
@@ -29,7 +27,7 @@ const VideoPlayerControlsDensityOfMarks: React.FC = () => {
         setShowTrimmedSegments
     } = useContext(PlayerContext);
 
-    const onChangeNumber = (value: ValueType) => {
+    const onChangeNumber = (value: number) => {
         if (value !== undefined) {
             setMarksDensity(value);
         }
@@ -51,7 +49,7 @@ const VideoPlayerControlsDensityOfMarks: React.FC = () => {
                 step={1}
                 value={marksDensity}
                 disabled={!showMarks}
-                onChange={onChangeNumber as (value: string | number | null | undefined) => void}
+                onChange={(val) => onChangeNumber(Number(val))}
             />
             <CustomCheckbox
                 onChange={onShowMarks}

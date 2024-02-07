@@ -7,27 +7,28 @@ import {JSONDataTranscriptions} from "../utils/transcriptionUtils";
 export interface VideoProps {
     Id: string;
     transcriptions: JSONDataTranscriptions;
+    name: string;
 }
 
-export interface Videos {
-    [key: string]: VideoProps;
-}
-
-export const EXAMPLES:Videos = {
-    example1: {
+export const EXAMPLES: VideoProps[] = [
+    {
+        name: "example1",
         Id: "5-T6Xqlh6BU&t",
         transcriptions: example1
     },
-    example2: {
+    {
+        name: "example2",
         Id: "221F55VPp2M",
         transcriptions: example2
     },
-    example3: {
+    {
+        name: "example3",
         Id: "GfO-3Oir-qM",
         transcriptions: example3
     },
-    example4: {
+    {
+        name: "example4",
         Id: "ww_H3UDfxxQ",
         transcriptions: example4
     }
-}
+]
