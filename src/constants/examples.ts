@@ -2,6 +2,7 @@ import example1 from "../transcriptJsons/example-1.json";
 import example2 from "../transcriptJsons/example-2.json";
 import example3 from "../transcriptJsons/example-3.json";
 import example4 from "../transcriptJsons/example-4.json";
+import example5 from "../transcriptJsons/example-5.json";
 import {JSONDataTranscriptions} from "../utils/transcriptionUtils";
 
 export interface VideoProps {
@@ -30,5 +31,10 @@ export const EXAMPLES: VideoProps[] = [
         name: "example4",
         Id: "ww_H3UDfxxQ",
         transcriptions: example4
+    },
+    {
+        name: "example5",
+        Id: "bdOvUZ1Oyv8",
+        transcriptions: example5
     }
 ]

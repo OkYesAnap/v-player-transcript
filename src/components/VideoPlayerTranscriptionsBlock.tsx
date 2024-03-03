@@ -79,7 +79,7 @@ const VideoPlayerTranscriptionsBlock: React.FC = () => {
     const amountOfTranscriptions: HTMLCollection | undefined = currentTranscriptionRef?.current?.children;
 
     const handleTranscriptionClick = (startTime: number) => {
-        playerRef?.current?.seekTo(Number(startTime / 1000));
+        playerRef?.current?.seekTo(Number(Math.round(startTime / 1000)));
     };
 
     useEffect(() => {
@@ -92,6 +92,7 @@ const VideoPlayerTranscriptionsBlock: React.FC = () => {
     }, [idOfCurrentTranscription, showTrimmedSegments, amountOfTranscriptions]);
 
     const onDeleteAddClick = (transcription: TranscriptionEvent) => {
+        console.log(transcription);
         setDeletedTranscriptions([...deletedTranscriptions, transcription]);
     }
 

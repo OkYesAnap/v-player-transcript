@@ -23,6 +23,8 @@ export interface PlayerContextProps {
     setDeletedTranscriptions: React.Dispatch<React.SetStateAction<TranscriptionEvent[]>>;
     showTrimmedSegments: boolean;
     setShowTrimmedSegments: React.Dispatch<React.SetStateAction<boolean>>;
+    disableEdit: boolean;
+    setDisableEdit: React.Dispatch<React.SetStateAction<boolean>>;
 }
 
 export const DefaultPlayerContext: PlayerContextProps = {
@@ -51,6 +53,9 @@ export const DefaultPlayerContext: PlayerContextProps = {
     },
     showTrimmedSegments: true,
     setShowTrimmedSegments: () => {
+    },
+    disableEdit: true,
+    setDisableEdit: () => {
     }
 }
 

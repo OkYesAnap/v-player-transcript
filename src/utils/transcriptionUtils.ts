@@ -1,4 +1,4 @@
-import {VideoProps} from "../constants/examples";
+import {EXAMPLES, VideoProps} from "../constants/examples";
 
 export interface Seg {
     utf8: string;
@@ -98,4 +98,19 @@ export const transcriptionsConverter = (transcriptData: VideoProps | undefined):
           events: preventTranscriptCollisions(transcriptData?.transcriptions.events || [])
       }
   }
+}
+
+export const randomStartItem = (exampleNumber?: number) => {
+    if (typeof exampleNumber === "number") return EXAMPLES[exampleNumber]
+    else return EXAMPLES[Math.floor(Math.random() * EXAMPLES.length)]
+}
+
+export const getCutSegmentsFromParams = (cutParams?:number[]):TranscriptionEvent[] => {
+    let cutSegs:TranscriptionEvent[] = []
+    if (cutParams && cutParams?.length) {
+        for (let i = 0; i < cutParams.length; i = i + 2) {
+            cutSegs.push({tStartMs: cutParams[i], dDurationMs: cutParams[i+1]})
+        }
+    }
+    return cutSegs
 }

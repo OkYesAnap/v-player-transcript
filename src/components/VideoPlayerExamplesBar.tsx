@@ -12,13 +12,7 @@ const StyledExampleBar = styled.div`
   margin: 0 1rem;
 `
 
-export const randomStartItem = () => {
-    const randomItem = Math.floor(Math.random() * EXAMPLES.length);
-    return EXAMPLES[randomItem]
-}
-
 const VideoPlayerExamplesBar: React.FC = () => {
-
     const {
         videoProps,
         setVideoProps,
@@ -26,6 +20,7 @@ const VideoPlayerExamplesBar: React.FC = () => {
         setDuration,
         setCurrentTime,
         setDeletedTranscriptions,
+        disableEdit
     } = useContext(PlayerContext);
 
     const onExampleChange = (current: valueType) => {
@@ -44,6 +39,7 @@ const VideoPlayerExamplesBar: React.FC = () => {
 
     return (<StyledExampleBar>
         <Select
+            disabled={disableEdit}
             options={VideoOptions()}
             defaultValue={videoProps.name}
             onChange={(value: valueType) => {
